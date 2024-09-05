@@ -11,54 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in General Linguistics, Technical University Berlin, 2024
+* Grad studies in Linguistics and American Studies, University of Regensburg (without graduation) 
+* M.A. in Inclusion/Exclusion, Regensburg University of Applied Sciences, 2019
+* B.A. in Social Work, Regensburg University of Applied Sciences, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10/2024 - today
+  * Undergraduate Lecturer
+  * Regensburg University of Applied Sciences 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2020 - today
+  * Affiliate Researcher
+  * Research Lab Social Media & Hate, Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University Bloomington
+  * Director: Prof. Alvin H. Rosenfeld, Associate Director: Prof. Dr. Günther Jikeli
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2018 - 12/2018
+  * Visiting Scholar
+  * Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University Bloomington
+  * Project: “New Frontiers: Contemporary Antisemitism on Web 2.0”, Projectlead: Prof. Dr. Günther Jikeli
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 03/2019 - 04/2019
+  * Visiting Scholar
+  * Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University Bloomington
+  * Project: “New Frontiers: Contemporary Antisemitism on Web 2.0”, Projectlead: Prof. Dr. Günther Jikeli
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 06/2016 - 06/2018
+  * Research Assistant
+  * Institute for Social Research and Technology Assessment (IST), Regensburg University of Applied Sciences
+  * Project: “NeWiRe”, “Asylum Seekers in Bavaria”
+  * Quantitative data analysis, Development of an online seminar @ the Virtual University of Bavaria
+
   
-Talks
+Fellowships
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 01/2021 - 06/2024
+  * PhD Fellowship, Hans-Böckler-Foundation
+* 03/2017 - 09/2019
+  * Graduate Fellowship, Studienstiftung des Deutschen Volkes
+
+
+Memberships
+======
+* 07/2023 - today
+  * Gesellschaft f¨ur Sprachtechnologie und Computerlinguistik, (GSCL)
+* 10/2021 - today
+  * AK Antisemitismusforschung, Deutsche Gesellschaft f¨ur Soziologie
+* 10/2017 - today
+  * Deutsch-Israelische Gesellschaft e. V.
+
   
-Teaching
+Expertise
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Skills and Abilities
+  * Content Analysis, Cyber Monitoring, Qualitative & Quantitative Methods in Social Science, Natural Language Processing, Text-Mining, Data Managment, Interdisciplinary Project Coordination
+* Technical Skills
+  * Python, R, Jira, Excel, LaTeX
+
