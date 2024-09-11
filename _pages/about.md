@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone and welcome to my personal webiste!.
+Hi everyone and welcome to my personal website!
 
 News and updates
 ======
