@@ -3,7 +3,7 @@ title: "Holocaustvergleiche auf X/Twitter"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-31-Holocaustvergleiche auf X
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'lalalala-'
 date: 2024-08-31
 venue: 'Kodikas/Code'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
