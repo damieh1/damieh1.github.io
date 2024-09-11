@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in General Linguistics, Technical University Berlin, 2024
-* Grad studies in Linguistics and American Studies, University of Regensburg (without graduation) 
-* M.A. in Inclusion/Exclusion, Regensburg University of Applied Sciences, 2019
-* B.A. in Social Work, Regensburg University of Applied Sciences, 2017
+* Ph.D in General Linguistics, Technical University Berlin, 2021 - 2024
+* M.A. in Inclusion/Exclusion, Regensburg University of Applied Sciences, 2018 - 2019
+* B.A. in Social Work, Regensburg University of Applied Sciences, 2013 - 2017
+
+__PhD preparatory studies, degree not pursued due to doctoral enrollment__
+
+ _Linguistics and American Studies, University of Regensburg, 2019 - 2020_
+
 
 Work experience
 ======
 * 10/2024 - today
-  * Undergraduate Lecturer
+  * Lecturer
   * Regensburg University of Applied Sciences 
 
 * 10/2020 - today
