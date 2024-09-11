@@ -2,7 +2,7 @@
 title: "Holocaustvergleiche auf X/Twitter"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-31-Holocaustvergleiche auf X
+permalink: /publication/2024-08-31-Holocaustvergleiche-auf-X
 excerpt: 'lalalala-'
 date: 2024-08-31
 venue: 'Kodikas/Code'
