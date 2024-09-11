@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != false %}
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -19,4 +19,4 @@
 </div>
 {% endif %}
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://damieh1.github.io/" rel="nofollow">damieh</a> &amp; <a href="https://damieh1.github.io/">damieh's portfolio</a>, researcher at <a href="https://isca.indiana.edu/" rel="nofollow"></a>.</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://damieh1.github.io/" rel="nofollow">damieh</a> &amp; <a href="https://damieh1.github.io/">damieh's portfolio</a>, Postdoctoral researcher<a href="https://isca.indiana.edu/" rel="nofollow"></a>.</div>
