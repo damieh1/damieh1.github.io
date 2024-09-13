@@ -1,0 +1,14 @@
+---
+title: "Antisemitic Messages? A Guide to High-Quality Annotation and a Labeled Dataset of Tweets"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-04-18-arxiv2023
+excerpt: 'Paper on an annotated dataset that serves as a gold standard for analyzing antisemitic tweets using machine learning.'
+date: 2023-04-18
+venue: 'arXiv'
+slidesurl: 
+paperurl: 'https://arxiv.org/pdf/2304.14599'
+citation: 'Jikeli, Gunther; Karali, Sameer; Miehling, Daniel; Soemer, Katharina (2023). &quot;Antisemitic Messages? A Guide to High-Quality Annotation and a Labeled Dataset of Tweets. arXiv'
+---
+
+One of the major challenges in automatic hate speech detection is the lack of datasets that cover a wide range of biased and unbiased messages and that are consistently labeled. We propose a labeling procedure that addresses some of the common weaknesses of labeled datasets. We focus on antisemitic speech on Twitter and create a labeled dataset of 6,941 tweets that cover a wide range of topics common in conversations about Jews, Israel, and antisemitism between January 2019 and December 2021 by drawing from representative samples with relevant keywords. Our annotation process aims to strictly apply a commonly used definition of antisemitism by forcing annotators to specify which part of the definition applies, and by giving them the option to personally disagree with the definition on a case-by-case basis. Labeling tweets that call out antisemitism, report antisemitism, or are otherwise related to antisemitism (such as the Holocaust) but are not actually antisemitic can help reduce false positives in automated detection. The dataset includes 1,250 tweets (18%) that are antisemitic according to the International Holocaust Remembrance Alliance (IHRA) definition of antisemitism. It is important to note, however, that the dataset is not comprehensive. Many topics are still not covered, and it only includes tweets collected from Twitter between January 2019 and December 2021. Additionally, the dataset only includes tweets that were written in English. Despite these limitations, we hope that this is a meaningful contribution to improving the automated detection of antisemitic speech. 
