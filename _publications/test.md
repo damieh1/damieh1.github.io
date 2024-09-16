@@ -8,5 +8,5 @@ date: 2024-06-17
 venue: 'Routledge'
 slidesurl: 
 paperurl: 
-citation: 'Jikeli, G., Cavar, D., Jeong, W., Miehling, D., Wagh, P., Pak, D., 2022. Towards an AI Definition of Antisemitism?, <in> in: Hübscher, M., Mering, S. (Eds.), <i>Antisemitism on Social Media.</i> Routledge
+citation: 'Jikeli, G., Cavar, D., Jeong, W., Miehling, D., Wagh, P., Pak, D., 2022. Towards an AI Definition of Antisemitism?, <in> in: Hübscher, M., Mering, S. (Eds.), <i>Antisemitism on Social Media.</i> Routledge'
 ---
