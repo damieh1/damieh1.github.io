@@ -1,7 +1,7 @@
 ---
 title: "Whattheyhide: Judenhass in deutschsprachigen Fringe-Communities auf Telegram"
 collection: publications
-category: manuscripts
+category: book-chapter
 permalink: /publication/2024-09-05-Whattheyhide
 excerpt: 'The book chapter discusses the communication dynamics in German fringe web communities on Telegram and the platform "Whattheyhide".'
 date: 2024-09-05
