@@ -81,7 +81,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  book-chapters:
+  book-chapter:
     title: 'Book-Chapters'
 
 # Site Settings
