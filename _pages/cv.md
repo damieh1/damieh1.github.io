@@ -9,65 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+About
 ======
-* __Ph.D in General Linguistics__, _Technical University Berlin_, 2021 - 2024
-* __M.A. in Inclusion/Exclusion__, _Regensburg University of Applied Sciences_, 2018 - 2019
-* __B.A. in Social Work__, _Regensburg University of Applied Sciences_, 2013 - 2017
+I hold a Ph.D. in [General Linguistics](https://www.tu.berlin/linguistik) (summa cum laude) from the [Technical University of Berlin](https://www.tu.berlin/) (2021-2024). During my doctoral studies, I focused on speech patterns and tropes related to contemporary antisemitism, racism, and conspiracy fantasies, examining how these ideologies manifest and become disseminated through [user-generated content](https://en.wikipedia.org/wiki/User-generated_content) (UGC) on social media platforms.
 
-  __PhD preparatory studies__, _degree not pursued due to doctoral enrollment_
-* Linguistics and American Studies, _University of Regensburg_, 2019 - 2020
+Prior to my Ph.D., I completed a Master’s degree in Inclusion/Exclusion at [Regensburg University of Applied Sciences](https://www.oth-regensburg.de/en/) (2018-2019). I also hold a Bachelor’s degree in Social Work from the same institution (2013-2017), which not only sparked my interest in science as a student assistant at the [Institute for Social Research and Technology Assessment](https://rcai.de/en/category/ist/) (IST), but also provided me with valuable knowledge in statistics and quantitative data analysis, as well as a solid theoretical background in social sciences, particularly in the field of youth pedagogy.
 
-Work experience
-======
-* 10/2024 - today
-  * Lecturer
-  * _Regensburg University of Applied Sciences_ 
+I also pursued graduate studies in Linguistics and American Studies at the [University of Regensburg](https://www.uni-regensburg.de/en) (2019-2020), though I decided not to complete the program in order to focus on my Ph.D. research.
 
-* 10/2020 - today
-  * Affiliate Researcher
-  * Research Lab Social Media & Hate, Institute for the Study of Contemporary Antisemitism (ISCA), _Indiana University Bloomington_
-  * Director: Prof. Alvin H. Rosenfeld, Associate Director: Prof. Dr. Günther Jikeli
-
-* 08/2018 - 12/2018
-  * Visiting Scholar
-  * Institute for the Study of Contemporary Antisemitism (ISCA), _Indiana University Bloomington_
-  * Project: “New Frontiers: Contemporary Antisemitism on Web 2.0”, Projectlead: Prof. Dr. Günther Jikeli
-  
-* 03/2019 - 04/2019
-  * Visiting Scholar
-  * Institute for the Study of Contemporary Antisemitism (ISCA), _Indiana University Bloomington_
-  * Project: “New Frontiers: Contemporary Antisemitism on Web 2.0”, Projectlead: Prof. Dr. Günther Jikeli
-
-* 06/2016 - 06/2018
-  * Research Assistant
-  * Institute for Social Research and Technology Assessment (IST), _Regensburg University of Applied Sciences_
-  * Project: “NeWiRe”, “Asylum Seekers in Bavaria”
-  * Quantitative data analysis, Development of an online seminar @ the Virtual University of Bavaria
+As an interdisciplinary researcher, my aim is to bridge Computational Social Science, Linguistics and Pedagogy informing both my research and teaching.
 
   
 Fellowships
 ======
-* 01/2021 - 06/2024
-  * PhD Fellowship, _Hans-Böckler-Foundation_
-* 03/2017 - 09/2019
-  * Graduate Fellowship, _Studienstiftung des Deutschen Volkes_
+From 2021 to 2024, I held a Ph.D. Fellowship from the [Hans Böckler Foundation](https://www.boeckler.de/), which allowed me to focus on my doctoral research. Prior to that, I was granted a Graduate Fellowship from the [Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/en) from 2017 to 2019. 
 
 
 Memberships
 ======
-* 07/2023 - today
-  * Gesellschaft für Sprachtechnologie und Computerlinguistik, (GSCL)
-* 10/2021 - today
-  * AK Antisemitismusforschung, Deutsche Gesellschaft füur Soziologie
-* 10/2017 - today
-  * Deutsch-Israelische Gesellschaft e. V.
+Since July 2023, I have been a member of the [Gesellschaft für Sprachtechnologie und Computerlinguistik](https://www.gscl.org/) (GSCL).
+I also participate in the AK Antisemitismusforschung within the [Deutsche Gesellschaft für Soziologie](https://soziologie.de/sektionen/arbeitskreise-und-arbeitsgruppen) (since October 2021), where I engage with interdisciplinary research on antisemitism. Additionally, I have been a member of the [Deutsch-Israelische Gesellschaft e.V.](https://www.deutsch-israelische-gesellschaft.de/) (DIG) since 2017, reflecting my commitment to fostering German-Israeli relations.
+research. 
 
-  
 Expertise
 ======
-* Skills and Abilities
-  * Content Analysis, Cyber Monitoring, Qualitative & Quantitative Methods in Social Science, Natural Language Processing, Text-Mining, Data Managment, Interdisciplinary Project Coordination
-* Technical Skills
-  * Python, R, Jira, Excel, LaTeX
+Throughout my academic career, I have gained knowledge in computational linguistics and computational social science, developing a broad set of skills that include content analysis, cyber monitoring, and both qualitative corpus analysis and quantitative techniques using inferential statistics. I also have expertise in natural language processing and text mining, along with a range of technical skills, including proficiency in Python, R, Jira, Excel, and LaTeX.
 
