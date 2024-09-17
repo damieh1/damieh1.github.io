@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference Papers'
   book-chapter:
     title: 'Book-Chapters'
-  datset:
+  dataset:
     title: 'Datasets'
 
 # Site Settings
