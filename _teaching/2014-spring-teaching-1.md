@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Kritik des Antisemitismus: Einführung in Theorien, Erkennungs- und Handlungsansätze in der Sozialen Arbeit"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-fall
+venue: "OTH-Regensburg"
+date: 2024-10-01
+location: "Regensburg, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Fall 2024/2025
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+[Modulname: 3.01](https://www.oth-regensburg.de/fileadmin/Bereiche/Fakultaet_S/Dateien_Studiengangsseiten/BAMU/Modulhandbuch_BAMU_Studierende_mit_Immatrikulation_bis_einschl_SoSe_2023__1_.pdf) Soziologische und politikwissenschaftliche Vertiefung (Sociological and Political Scientific Accentuation)
