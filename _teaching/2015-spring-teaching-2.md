@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Program for Faculty Assistance in Data Science (FADS)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Indiana University, ISCA"
+date: 2024-06-01
+location: "Bloomington, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant (TA) 06/01/2024-08/15/2024
 ======
+[FADS-Program](https://research.iu.edu/funding-proposals/funding/opportunities/faculty-assistance-in-data-science/index.html) 
 
-Heading 2
-======
-
-Heading 3
-======
