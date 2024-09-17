@@ -1,0 +1,17 @@
+---
+title: "Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics"
+collection: publications
+category: dataset
+permalink: /publication/2023-05-13-zenodo
+excerpt: ''
+date: 2023-05-13
+venue: 'Zenodo'
+slidesurl: 
+paperurl: 'https://zenodo.org/records/7932888'
+citation: 'Jikeli, Gunther; Karali, Sameer; Miehling, Daniel, Soemer, Katharina (2023). &quot;Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics. Zendodo. DOI 10.5281/zenodo.7872834'
+---
+
+# Content: 
+This dataset contains 6,941 tweets that cover a wide range of topics common in conversations about Jews, Israel, and antisemitism between January 2019 and December 2021. The dataset is drawn from representative samples during this period with relevant keywords. 1,250 tweets (18%) meet the IHRA definition of antisemitic messages.
+The dataset has been compiled within the ISCA project using an annotation portal to label tweets as either antisemitic or non-antisemitic. The original data was sourced from annotationportal.com. 
+The tweets' distribution of all messages by year is as follows: 1,499 (22%) from 2019, 3,716 (54%) from 2020, and 1,726 (25%) from 2021. 4,605 (66%) contain the keyword "Jews," 1,524 (22%) include "Israel," 529 (8%) feature the derogatory term "ZioNazi*," and 283 (4%) use the slur "K---s." Some tweets may contain multiple keywords. 483 out of the 4,605 tweets with the keyword "Jews" (11%) and 203 out of the 1,524 tweets with the keyword "Israel" (13%) were classified as antisemitic. 97 out of the 283 tweets using the antisemitic slur "K---s" (34%) are antisemitic. Interestingly, many tweets featuring the slur "K---s" actually call out its usage. In contrast, the majority of tweets with the derogatory term "ZioNazi*" are antisemitic, with 467 out of 529 (88%) being classified as such. 
