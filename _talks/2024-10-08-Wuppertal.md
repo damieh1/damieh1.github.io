@@ -8,4 +8,4 @@ date: 2024-10-08
 location: "Wuppertal"
 ---
 
-Von Twitter und Facebook über Telegram und 4Chan bis hin zu TikTok – bereits vor dem 7. Oktober ließ sich ein konstantes antisemitisches Grundrauschen in den sozialen Medien feststellen. Als weltanschauliche Kontinuität tritt Antisemitismus im Internet keineswegs nur an den Rändern der digitalen Gesellschaft auf. Der Vortrag thematisiert aktuelle Erscheinungsformen des Antisemitismus im Web 2.0, geht auf Verschleierungstechniken und Verbreitungsstrategien ein und beleuchtet neben dem Ausmaß der Judenfeindschaft auf einzelnen Plattformen auch die politisch-religiösen Hintergründe jener Akteure, die sie in Umlauf bringen. 
+Veranstaltungsreihe anlässlich des 07/10. Siehe hierzu [Reihe](https://www.alte-synagoge-wuppertal.de/veranstaltungen/veranstaltungen-details/gedenken-und-gewaertigen) & [Veranstaltungsinfo](https://www.alte-synagoge-wuppertal.de/veranstaltungen/veranstaltungen-details/online-antisemitismus-verstehen)
