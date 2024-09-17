@@ -1,0 +1,14 @@
+---
+title: "A German Language Labeled Dataset of Tweets"
+collection: publications
+category: dataset
+permalink: /publication/2023-10-30-zenodo
+excerpt: ''
+date: 2023-10-30
+venue: 'Zenodo'
+slidesurl: 
+paperurl: 'https://zenodo.org/records/10053509'
+citation: 'Jikeli, Gunther; Karali, Sameer; Miehling, Daniel, Soemer, Katharina (2023). &quot;A German Language Labeled Dataset of Tweets. Zendodo. DOI 10.5281/zenodo.10053508' 
+---
+
+Our dataset contains 8,048 German language tweets related to Jewish life from a four-year timespan. The dataset consists of 18 samples of tweets with the keyword "Juden" or "Israel." The samples are representative samples of all live tweets (at the time of sampling) with these keywords respectively over the indicated time period. Each sample was annotated by two expert annotators using an Annotation Portal that visualizes the live tweets in context. We provide the annotation results based on the agreement of two annotators, after discussing discrepancies (Jikeli et al. 2022: 3-6). Overall, 335 tweets (4%) were labelled as antisemitic following the IHRA Working Definition of Antisemitism. 1345 tweets (17 %) come from 2019, 1364 tweets (17 %) from 2020, 2639 tweets (33 %) from 2021 and 2700 tweets (34 %) from 2022.About half of the tweets, a total of 4,493 tweets (56 %) come from queries with the keyword "Juden," which is representative of a continuous time period from January 2019 to December 2022: 864 tweets (19 %) come from 2019, 891 tweets (20 %) from 2020, 1364 tweets (30 %) from 2021 and 1374 (31 %). 148 out of the 4493 tweets, so 3% from the query with "Juden" are antisemitic. The other part of the tweets, a total of 3,555 (44 %)  results of queries with the keyword "Israel". 481 tweets (14 %) of the keywords containing Israel stem from 2019, 473 (13 %) come from 2020, 1275 tweets (36 %) from 2021 and 1326 tweets (37 %) are from 2022. Out of all tweets from the "Israel" query, 187 (5 %)  are antisemitic. The csv file contains diacritics and special characters of the German language (e.g., "ä", "ü", "ö", "ß"), which should be taken into account when opening it with anything other than a text editor. 
