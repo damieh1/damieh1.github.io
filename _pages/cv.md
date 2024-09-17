@@ -11,7 +11,7 @@ redirect_from:
 
 About
 ======
-I hold a Ph.D. in [General Linguistics](https://www.tu.berlin/linguistik) (summa cum laude) from the [Technical University of Berlin](https://www.tu.berlin/) (2021-2024). During my doctoral studies, I focused on speech patterns and tropes related to contemporary antisemitism, racism, and conspiracy fantasies, examining how these ideologies manifest and become disseminated through [user-generated content](https://en.wikipedia.org/wiki/User-generated_content) (UGC) on social media platforms.
+I hold a Ph.D. in [General Linguistics](https://www.tu.berlin/linguistik) (_summa cum laude_) from the [Technical University of Berlin](https://www.tu.berlin/) (2021-2024). During my doctoral studies, I focused on speech patterns and tropes related to contemporary antisemitism, racism, and conspiracy fantasies, examining how these ideologies manifest and become disseminated through [user-generated content](https://en.wikipedia.org/wiki/User-generated_content) (UGC) on social media platforms.
 
 Prior to my Ph.D., I completed a Master’s degree in Inclusion/Exclusion at [Regensburg University of Applied Sciences](https://www.oth-regensburg.de/en/) (2018-2019). I also hold a Bachelor’s degree in Social Work from the same institution (2013-2017), which not only sparked my interest in science as a student assistant at the [Institute for Social Research and Technology Assessment](https://rcai.de/en/category/ist/) (IST), but also provided me with valuable knowledge in statistics and quantitative data analysis, as well as a solid theoretical background in social sciences, particularly in the field of youth pedagogy.
 
@@ -33,5 +33,5 @@ research.
 
 Expertise
 ======
-Throughout my academic career, I have gained knowledge in computational linguistics and computational social science, developing a broad set of skills that include content analysis, cyber monitoring, and both qualitative corpus analysis and quantitative techniques using inferential statistics. I also have expertise in natural language processing and text mining, along with a range of technical skills, including proficiency in Python, R, Jira, Excel, and LaTeX.
+Throughout my academic career, I have gained knowledge in Computational Linguistics and Computational Social Science, developing a broad set of skills that include content analysis, cyber monitoring, and both qualitative corpus analysis and quantitative techniques using inferential statistics. I also have expertise in natural language processing and text mining, along with a range of technical skills, including proficiency in Python, R, Jira, Excel, and LaTeX.
 
