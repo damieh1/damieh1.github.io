@@ -28,10 +28,9 @@ From 2021 to 2024, I held a Ph.D. Fellowship from the [Hans Böckler Foundation]
 Memberships
 ======
 Since July 2023, I have been a member of the [Gesellschaft für Sprachtechnologie und Computerlinguistik](https://www.gscl.org/) (GSCL).
-I also participate in the AK Antisemitismusforschung within the [Deutsche Gesellschaft für Soziologie](https://soziologie.de/sektionen/arbeitskreise-und-arbeitsgruppen) (since October 2021), where I engage with interdisciplinary research on antisemitism. Additionally, I have been a member of the [Deutsch-Israelische Gesellschaft e.V.](https://www.deutsch-israelische-gesellschaft.de/) (DIG) since 2017, reflecting my commitment to fostering German-Israeli relations.
-research. 
+I also participate in the AK Antisemitismusforschung within the [Deutsche Gesellschaft für Soziologie](https://soziologie.de/sektionen/arbeitskreise-und-arbeitsgruppen) (since October 2021), where I engage with interdisciplinary research on antisemitism. Additionally, I have been a member of the [Deutsch-Israelische Gesellschaft e.V.](https://www.deutsch-israelische-gesellschaft.de/) (DIG) since 2017, reflecting my commitment to fostering German-Israeli relations. 
 
 Expertise
 ======
-Throughout my academic career, I have gained knowledge in Computational Linguistics and Computational Social Science, developing a broad set of skills that include content analysis, cyber monitoring, and both qualitative corpus analysis and quantitative techniques using inferential statistics. I also have expertise in natural language processing and text mining, along with a range of technical skills, including proficiency in Python, R, Jira, Excel, and LaTeX.
+Throughout my academic career, I have gained knowledge in Computational Linguistics and Computational Social Science, developing a broad set of skills that include content analysis, cyber monitoring, and both qualitative corpus analysis and quantitative techniques using inferential statistics. I also have expertise in natural language processing and text mining, along with a range of technical skills, including proficiency in _Python_, _R_, _Jira_, and _LaTeX_.
 
