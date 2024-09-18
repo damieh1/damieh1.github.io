@@ -2,7 +2,7 @@
 title: "Online-Antisemitismus verstehen: Hassrede im Web 2.0."
 collection: publications
 category: books
-permalink: /publication/2024-10-10-Hassrede-im-Web.md
+permalink: 
 excerpt: 
 date: 2024-10-10
 venue: 'Nomos Verlag'
