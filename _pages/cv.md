@@ -51,7 +51,7 @@ redirect_from:
 - **Consultant to a major tech company on tracking and combating online hate speech
 and Holocaust distortion**, with a focus on platform-level interventions and detection
 strategies *Summer 2024*
-- NLP Guide and Data Analyst, Datathon & Machine Learning Competition to Combat Antisemitism, *Fall 2023*, Indiana University
+- **NLP Guide and Data Analyst**, Datathon & Machine Learning Competition to Combat Antisemitism, *Fall 2023*, Indiana University
 
 ---
 
@@ -61,6 +61,7 @@ strategies *Summer 2024*
 - **Linguistic Analysis of Social Media** *(Spring 2026)*, Undergraduate Seminar, Indiana University
 - **European Antisemitism from Enlightenment to Holocaust** *(Fall 2025)*, Undergraduate Seminar, Indiana University
 - **Critique of Antisemitism: Theories and Intervention** *(Fall 2024)* Undergraduate Lecture, Regensburg University of Applied Sciences
+  
 ---
 
 ## Academic Reviewing
