@@ -29,10 +29,8 @@ redirect_from:
 
 ### Book 
 - **Online-Antisemitismus verstehen: Hassrede im Web 2.0** *(Understanding Online Antisemitism: Hate-Speech in Web 2.0)* *(2024)*, [Nomos](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3), E-ISBN 978-3-7489-4905-3
-
 ### Peer-Review
 - **Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis** *(Forthcoming)*, RANLP, ACL Anthology
-
 ### Scientific Reports
 - **Anti-Israel Campus Groups: Online Networks & Narratives** *(2025)*, Knowledge Commons, [DOI](https://doi.org/10.17613/yb6ze-q9881)
 
@@ -56,12 +54,11 @@ strategies *Summer 2024*
 ---
 
 ## Teaching
-
 - **Digital Media Analysis and Online Antisemitism** *(Summer 2026)*, Graduate Lecture, University of Haifa
 - **Linguistic Analysis of Social Media** *(Spring 2026)*, Undergraduate Seminar, Indiana University
 - **European Antisemitism from Enlightenment to Holocaust** *(Fall 2025)*, Undergraduate Seminar, Indiana University
 - **Critique of Antisemitism: Theories and Intervention** *(Fall 2024)* Undergraduate Lecture, Regensburg University of Applied Sciences
-  
+
 ---
 
 ## Academic Reviewing
@@ -72,21 +69,19 @@ strategies *Summer 2024*
 ---
 
 ## Technical Skills
-
 - **Languages**: __Python__, __R__, __LaTeX__  
 - **Tools**: Git, LabelStudio, Jira, JetStream2, GPU computing
 
 ---
 
 ## Academic Memberships
-
 - International Communication Association (ICA)  
 - Gesellschaft für Sprachtechnologie und Computerlinguistik (GSCL)
 - AK Antisemitismusforschung, Deutsche Gesellschaft fuer Soziologie
+
 ---
 
 ## Awards & Fellowships
-
 - [Research Fellow](https://londonantisemitism.com/team/daniel-miehling) *2025–Present*, London Centre for the Study of Contemporary Antisemitism (LCSCA)
 - Samerian Foundation [Visiting Research Fellowship](https://isca.indiana.edu/about/our-team/faculty-and-staff/daniel-miehling.html) *2025–Present*, Indiana University
 - ISGAP-Oxford Summer Institute, Curriculum Development *2024 July–August*, University of Oxford
@@ -95,6 +90,4 @@ strategies *Summer 2024*
   
 ---
 
-## 
-
-[Download Full CV (PDF)](https://github.com/damieh1/damieh1.github.io/blob/master/_pages/public_cv_august25.pdf)
+[Download Full CV (PDF)](https://github.com/damieh1/damieh1.github.io/raw/master/_pages/public_cv_august25.pdf)
