@@ -14,7 +14,7 @@ name                     : &name "Dr. Daniel Miehling"
 description              : &description "Computational Social Scientist"
 url                      : https://damieh1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : "https://github.com/damieh1"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               :
 author:
   # Biographic information
   avatar           : "headshot.png"
-  name             : "Daniel Miehling"
+  name             : "Daniel Miehling (Ph.D.)"
   pronouns         :   
   bio              : "Computational Social Scientist"
   location         : "United States"
