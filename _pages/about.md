@@ -17,6 +17,9 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
 
 ## 📢 Recent News & Updates
 
+### August
+- Preparations for the upcoming fall semester are in full swing. I will be 🎓 teaching the course ["European Antisemitism. From the Origins to 1933."](https://www.coursicle.com/indiana/professors/Daniel+Miehling), which is crosslisted in Jewish Studies and History. 
+
 ### July
 - I joined the [LCSCA](https://londonantisemitism.com/team/daniel-miehling) as a research fellow ✨.
 - Our long-Paper in Computatoinal Linguistics: **Aspect-Based Sentiment Analysis for Investigating Polarization in YouTube Comments** – *Daniel Miehling, Daniel Dakota and Sandra Kübler* was accepted for the [RANLP](https://ranlp.org/ranlp2025/index.php/accepted-papers) Conference Proceedings in Bulgaria.
