@@ -36,7 +36,7 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
 - My talk proposal *Covert and overt: online antisemitism and anti-Zionism in social media coverage by state-funded news agencies after 10/7* for the LCSA in conference in London was accepted. Check out the full conference [schedule](https://drive.google.com/file/d/1xxZS1xHWvjPaoq_aH58OAb5DdLwTGYtc/view).
 
 ### Febuary
-- My colleague, [Damir Cavar](https://github.com/dcavar), invited me to give a talk at the [NLP-Lab](https://nlp-lab.org/meetingschedule_spring_2025) about "Hate Spech and Social Media." at Luddy School ofInformatics, Computing, and Engineering.
+- My colleague, [Damir Cavar](https://github.com/dcavar), invited me to give a talk at the [NLP-Lab](https://nlp-lab.org/meetingschedule_spring_2025) about "Hate Spech and Social Media" at Luddy School ofInformatics, Computing, and Engineering.
 
 ### January
 - I have been awarded the inaugural Samerian Foundation Visiting Research Fellowship at the [Institute for the Study of Contemporary Antisemitism](https://isca.indiana.edu). 💎 Over the next two years, I will expand my research to develop new methodologies to investigate digital media.
