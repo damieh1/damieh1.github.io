@@ -69,6 +69,7 @@ strategies *Summer 2024*
 - [RANLP](https://ranlp.org) Conference Proceedings (ACL Anthology)
 - Journal for Contemporary Antisemitism [JCA](https://www.jcajournal.com] 
 
+---
 
 ## Technical Skills
 
