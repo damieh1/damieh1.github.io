@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Portfolio of Daniel Miehling (Ph.D.)"
+title: "Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Visiting Assistant Professor | Computational Social Scientist | Linguist**
+**Visiting Assistant Professor, Computational Social Scientist, Linguist**
 
-**Briding computational linguistics and social sciences @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)** — *Expert in social media analysis, the study of contemporary antisemitism & Holocaust Distortion*
+*Briding computational linguistics and social sciences @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)** — *Expert in social media analysis, the study of contemporary antisemitism & Holocaust Distortion*
 
 **Research interests** inlcude: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
 
