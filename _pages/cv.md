@@ -94,5 +94,4 @@ strategies *Summer 2024*
 
 ## 
 
-
-[Download Full CV (PDF)](path/to/your/updated/CV.pdf)
+[Download Full CV (PDF)](https://github.com/damieh1/damieh1.github.io/blob/master/_pages/public_cv_august25.pdf)
