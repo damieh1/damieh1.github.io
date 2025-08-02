@@ -11,7 +11,7 @@ redirect_from:
 
 Briding computational linguistics and social sciences: *Expert in Social Media Analysis and the Study of Contemporary Antisemitism and Holocaust Distortion*
 
-**Research interests** inlcude: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
+**Research interests** include: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
 
 ---
 
