@@ -66,7 +66,7 @@ strategies *Summer 2024*
 ## Academic Reviewing
 - [Nordicom](https://www.nordicom.gu.se/en/publications/journals) Review
 - [RANLP](https://ranlp.org) Conference Proceedings (ACL Anthology)
-- Journal for Contemporary Antisemitism [JCA](https://www.jcajournal.com] 
+- Journal for Contemporary Antisemitism [JCA](https://www.jcajournal.com) 
 
 ---
 
