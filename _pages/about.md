@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**Visiting Assistant Professor, Computational Social Scientist, Linguist**
+**Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist, Linguist**
 
-*Briding computational linguistics and social sciences @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)** — *Expert in social media analysis, the study of contemporary antisemitism & Holocaust Distortion*
+*Briding computational linguistics and social sciences: *Expert in social media analysis, the study of contemporary antisemitism & Holocaust Distortion*
 
 **Research interests** inlcude: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
 
@@ -23,7 +23,7 @@ redirect_from:
 - I created a detailed [git-guide](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset.md) for scraping with BrightData and preprocessing with Colab. The guide is available, as is a [YouTube tutorial](https://www.youtube.com/watch?v=EMuQFb-H0CE) for the **Datathon & Machine Learning Competition** (Indiana University, 2025).
 
 ### June
-- I was invited to give a presentaton talk at **Touro University (New York City, 2025)** on *Analyzing State Media and Online Commentary After October 7: A LongitudinalStudy of Sentiment and Narrative*
+- I was invited to give a presentaton talk at **Touro University (New York City, 2025)** on *Analyzing State Media and Online Commentary After October 7: A LongitudinalStudy of Sentiment and Narrative*.
 - In collaboration with my colleague, Gunther Jikeli, I published a [scientific report](https://works.hcommons.org/records/5cmke-1zh09) **analyzing 76,000 Instagram posts**. The report provides insights into the online activities of anti-Israel campus groups.
 
 ### May
@@ -33,7 +33,7 @@ redirect_from:
 - Our Research Lab, "Social Media and Hate," published a new machine learning dataset available on [Zenodo](https://zenodo.org/records/15025646).
 
 ### March 
-- My talk proposal *Covert and overt: online antisemitism and anti-Zionism in social media coverage by state-funded news agencies after 10/7* for the LCSA in conference in London was accepted. Check out the full conference [schedule](https://drive.google.com/file/d/1xxZS1xHWvjPaoq_aH58OAb5DdLwTGYtc/view)
+- My talk proposal *Covert and overt: online antisemitism and anti-Zionism in social media coverage by state-funded news agencies after 10/7* for the LCSA in conference in London was accepted. Check out the full conference [schedule](https://drive.google.com/file/d/1xxZS1xHWvjPaoq_aH58OAb5DdLwTGYtc/view).
 
 ### January
 - I have been awarded the inaugural Samerian Foundation Visiting Research Fellowship at the [Institute for the Study of Contemporary Antisemitism](https://isca.indiana.edu). Over the next two years, I will expand my research to develop new methodologies to investigate digital media.
