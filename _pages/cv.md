@@ -92,6 +92,7 @@ strategies *Summer 2024*
 - ISGAP-Oxford Summer Institute, Curriculum Development *2024 July–August*, University of Oxford
 - Ph.D. Fellowship *2021–2024*, Hans-Boeckler Foundation 
 - M.A. Graduate Fellowship *2017–2019*, Studienstiftung des deutschen Volkes
+  
 ---
 
 ## 
