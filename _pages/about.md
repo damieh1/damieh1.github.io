@@ -9,7 +9,7 @@ redirect_from:
 
 **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist**
 
-*Briding computational linguistics and social sciences:* Expert in social media analysis, the study of contemporary antisemitism & Holocaust Distortion
+Briding computational linguistics and social sciences: *Expert in Social Media Analysis and the Study of Contemporary Antisemitism and Holocaust Distortion*
 
 **Research interests** inlcude: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
 
