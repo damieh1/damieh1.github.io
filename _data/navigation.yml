@@ -7,6 +7,15 @@
 main:
   - title: "CV"
     url: /cv/
+    
+  - title: "Teaching"
+    url: /teach/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "pubs"
+    url: /pubs/
   
 #  - title: "Publications"
 #    url: /publications/
