@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist**
 
 Briding computational linguistics and social sciences: *Expert in Social Media Analysis and the Study of Contemporary Antisemitism and Holocaust Distortion*
