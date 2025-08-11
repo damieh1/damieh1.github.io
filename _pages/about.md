@@ -14,7 +14,7 @@ redirect_from:
 - Preparations for the upcoming fall semester are in full swing. I will be teaching the course ["European Antisemitism. From the Origins to 1933."](https://www.coursicle.com/indiana/professors/Daniel+Miehling), which is crosslisted in Jewish Studies and History. 
 
 ### July
-- I joined the London Centre for the Study of Contemporary Antisemitism [LCSCA](https://londonantisemitism.com/team/daniel-miehling) as a research fellow.
+- I joined the **London Centre for the Study of Contemporary Antisemitism** [LCSCA](https://londonantisemitism.com/team/daniel-miehling) as a research fellow.
 - Our long paper, **Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis** – *Daniel Miehling, Daniel Dakota and Sandra Kübler*, was accepted for publication and rated as one of the top-scoring papers for the [RANLP](https://ranlp.org/ranlp2025/index.php/accepted-papers) (Recent Advances in Natural Language Processing) Conference Proceedings 2025 in Bulgaria (**acceptance rate: 14.9%**).
 - I created a detailed [git-guide](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset.md) for scraping with BrightData and preprocessing with 🐍 Colab. The guide is available, as is a ▶ [YouTube tutorial](https://www.youtube.com/watch?v=EMuQFb-H0CE) for the **Datathon & Machine Learning Competition** (Indiana University, 2025).
 
