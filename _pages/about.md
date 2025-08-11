@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist**
-
-Briding computational linguistics and social sciences: *Expert in Social Media Analysis and the Study of Contemporary Antisemitism and Holocaust Distortion*
-
-**Research interests** include: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
-
----
-
 ## 📢 Recent News & Updates
 
 ### August
@@ -23,7 +15,7 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
 
 ### July
 - I joined the [LCSCA](https://londonantisemitism.com/team/daniel-miehling) as a research fellow.
-- Our long paper, **Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis** – *Daniel Miehling, Daniel Dakota and Sandra Kübler*, was accepted for publication and rated as one of the top-scoring papers for the [RANLP](https://ranlp.org/ranlp2025/index.php/accepted-papers) (Recent Advances in Natural Language Processing) Conference Proceedings 2025 in Bulgaria (acceptance rate: 14.9%).
+- Our long paper, **Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis** – *Daniel Miehling, Daniel Dakota and Sandra Kübler*, was accepted for publication and rated as one of the top-scoring papers for the [RANLP](https://ranlp.org/ranlp2025/index.php/accepted-papers) (Recent Advances in Natural Language Processing) Conference Proceedings 2025 in Bulgaria (**acceptance rate: 14.9%**).
 - I created a detailed [git-guide](https://github.com/damieh1/datathon_2025/blob/main/create__X_dataset.md) for scraping with BrightData and preprocessing with 🐍 Colab. The guide is available, as is a ▶ [YouTube tutorial](https://www.youtube.com/watch?v=EMuQFb-H0CE) for the **Datathon & Machine Learning Competition** (Indiana University, 2025).
 
 ### June
