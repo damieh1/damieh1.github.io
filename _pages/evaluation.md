@@ -73,18 +73,6 @@ classes: wide
   <table>
     <thead><tr><th>Variable</th><th>Meaning</th></tr></thead>
     <tbody>
-      <tr><td><code>C1_Relevance_Variety</code></td><td>Relevance and variety of data selected in Challenge 1.</td></tr>
-      <tr><td><code>C1_Annotation_Schema</code></td><td>Clarity and quality of the annotation schema (C1).</td></tr>
-      <tr><td><code>C1_Internal_Consistency</code></td><td>Internal consistency of annotations (C1).</td></tr>
-      <tr><td><code>C1_Data_Report_Quality</code></td><td>Quality/completeness of the data report (C1).</td></tr>
-      <tr><td><code>C1_Nuance_Reflection</code></td><td>Reflection on nuance in annotations (C1).</td></tr>
-      <tr><td><code>C1_Bonus_IAA</code></td><td>Bonus for high inter-annotator agreement (C1).</td></tr>
-      <tr><td><code>C2_Model_Performance</code></td><td>Model performance (C2).</td></tr>
-      <tr><td><code>C2_Use_Gold_Dataset</code></td><td>Appropriate use of the provided gold dataset (C2).</td></tr>
-      <tr><td><code>C2_Training_Pipeline</code></td><td>Completeness/quality of the training pipeline (C2).</td></tr>
-      <tr><td><code>C2_Evaluation</code> / <code>C2_Error_Analysis</code></td><td>Quality of evaluation or error analysis (C2).</td></tr>
-      <tr><td><code>C2_Nuance_Reflection</code></td><td>Reflection on nuance in outputs (C2).</td></tr>
-      <tr><td><code>C2_Overall_Quality</code> / <code>C2_Documentation</code></td><td>Overall/documentation quality (C2).</td></tr>
       <tr><td><code>Initial_Team_Size</code></td><td>Members at the start of the competition.</td></tr>
       <tr><td><code>Remaining_Team_Members</code></td><td>Members who completed the competition.</td></tr>
       <tr><td><code>Dropouts</code></td><td>Members who left.</td></tr>
