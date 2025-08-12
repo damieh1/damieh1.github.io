@@ -24,7 +24,7 @@ classes: wide
 </style>
 
 <header>
-  <h2>Scoring fair isn't always easy... :-)</h2>
+  <h2>Scoring isn't always easy. ;-)</h2>
   <p class="muted">Evaluating performance, team cohesion, and skill retention transparently.</p>
 </header>
 
