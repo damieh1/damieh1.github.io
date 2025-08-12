@@ -124,7 +124,7 @@ classes: wide
   $$
   \text{Final\_Score} = \text{Total\_Score} \times \text{Cohesion\_Multiplier} \times \text{Capacity\_Multiplier}
   $$
-    <p class="muted"><strong>In Other words</strong> We take the base score and scale it by the two multipliers. Teams that stayed intact and kept their skills get to keep more of their points..</p>
+    <p class="muted"><strong>In Other words:</strong> We take the base score and scale it by the two multipliers. Teams that stayed intact and kept their skills get to keep more of their points..</p>
 
   </div>
 </section>
