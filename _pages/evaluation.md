@@ -100,3 +100,37 @@ classes: wide
   $$
   </div>
 </section>
+
+---
+
+## Here is an example of how we handled the evaluation based on Team 2's scores.
+
+**Inputs:**
+- Total_Score = 115  
+- Initial_Team_Size = 5  
+- Remaining_Team_Members = 3 (2 dropouts)  
+- Initial_Coding_Experience = 3, Remaining_Coding_Experience = 2  
+- Initial_Antisemitism_Knowledge = 3, Remaining_Antisemitism_Knowledge = 1  
+- α = 1.0  
+
+**Step 1 — Cohesion Multiplier**  
+$$
+\text{Cohesion\_Multiplier} = 1 + \left(\frac{3}{5} - 1\right) = 0.6
+$$
+
+**Step 2 — Capacity Multiplier**  
+$$
+\text{Capacity\_Multiplier} =
+0.5 \times \frac{2}{3} + 0.5 \times \frac{1}{3}
+= 0.3333 + 0.1667 \approx 0.6667
+$$
+
+**Step 3 — Final Score**  
+$$
+\text{Final\_Score} = 115 \times 0.6 \times 0.6667 \approx 46.0
+$$
+
+**Interpretation:**  
+While Team 2 produced strong deliverables, a 40% reduction in team size and loss of topical expertise reduced their final ranking.
+
+---
