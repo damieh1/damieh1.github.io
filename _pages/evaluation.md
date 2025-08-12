@@ -34,6 +34,40 @@ classes: wide
   <p>The final score combines a <span class="pill">Base Score</span>, a <span class="pill">Team Cohesion Multiplier</span>, and a <span class="pill">Skill Retention (Capacity) Multiplier</span>.</p>
 </section>
 
+<h2>Base Scoring Rubric</h2>
+
+<h3>Challenge #1: Dataset Creation & Annotation (50 points total)</h3>
+<table>
+  <thead>
+    <tr><th>Variable</th><th style="width:70px;text-align:center;">Max</th><th>Definition</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>C1_Relevance_Variety</code></td><td style="text-align:center;">10</td><td>Dataset includes relevant antisemitic and non-antisemitic posts; diverse sources (hashtags, keywords, user groups).</td></tr>
+    <tr><td><code>C1_Annotation_Schema</code></td><td style="text-align:center;">10</td><td>Correct application of IHRA-WDA or justified adaptation; schema maps clearly to labels used.</td></tr>
+    <tr><td><code>C1_Internal_Consistency</code></td><td style="text-align:center;">10</td><td>Labels applied consistently with minimal misclassification; shows internal review.</td></tr>
+    <tr><td><code>C1_Data_Report_Quality</code></td><td style="text-align:center;">10</td><td>Dataset report includes keyword/time range, label definitions, label distribution, methodology.</td></tr>
+    <tr><td><code>C1_Nuance_Reflection</code></td><td style="text-align:center;">10</td><td>Report addresses challenges, limitations, ambiguity, and—if present—social/ethical implications.</td></tr>
+    <tr><td><code>C1_Bonus_IAA</code></td><td style="text-align:center;">10*</td><td><strong>Bonus:</strong> Formal inter-annotator agreement (Cohen’s Kappa, Krippendorff’s Alpha) reported and interpreted.</td></tr>
+  </tbody>
+</table>
+<p class="muted">* Bonus points may push a team above 50 for C1 before the final multipliers.</p>
+
+<h3>Challenge #2: Modeling &amp; Evaluation (50 points total)</h3>
+<table>
+  <thead>
+    <tr><th>Variable</th><th style="width:70px;text-align:center;">Max</th><th>Definition</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>C2_Model_Performance</code></td><td style="text-align:center;">15</td><td>Precision, recall, and F1-score reported; confusion matrix included.</td></tr>
+    <tr><td><code>C2_Use_Gold_Dataset</code></td><td style="text-align:center;">10</td><td>Used provided gold standard dataset correctly (no data leakage, correct splits).</td></tr>
+    <tr><td><code>C2_Training_Pipeline</code></td><td style="text-align:center;">10</td><td>Training process documented (hyperparameters, train/test/val split, reproducibility).</td></tr>
+    <tr><td><code>C2_Error_Analysis</code></td><td style="text-align:center;">10</td><td>Identifies error patterns; gives 3–5 FP/FN examples with reasoning.</td></tr>
+    <tr><td><code>C2_Documentation</code></td><td style="text-align:center;">5</td><td>Code is clear, well-structured, and reproducible (e.g., runnable Colab/README).</td></tr>
+    <tr><td><code>C2_Bonus_UnseenData</code></td><td style="text-align:center;">10*</td><td><strong>Bonus:</strong> Model tested on new, manually annotated unseen data; performance reported and reflected on.</td></tr>
+  </tbody>
+</table>
+<p class="muted">* Bonus points may push a team above 50 for C2 before the final multipliers.</p>
+
 <section>
   <h2>Variables</h2>
   <table>
