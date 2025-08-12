@@ -150,12 +150,12 @@ $$
 $$
 \text{Capacity\_Multiplier} =
 0.5 \times \frac{2}{3} + 0.5 \times \frac{1}{3}
-= 0.3333 + 0.1667 \approx 0.6667
+= 0.3333 + 0.1667 \approx 0.5
 $$
 
 **Step 3 — Final Score**  
 $$
-\text{Final\_Score} = 115 \times 0.6 \times 0.6667 \approx 46.0
+\text{Final\_Score} = 115 \times 0.6 \times 0.5 \approx 34.5
 $$
 
 **Interpretation:**  
