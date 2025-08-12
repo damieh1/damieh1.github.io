@@ -95,6 +95,7 @@ classes: wide
   $$
   \text{Total\_Score} = \sum \text{C1\_items} + \sum \text{C2\_items}
   $$
+    <p class="muted"><strong>In other words:</strong> We just add up all points from Challenge 1 and Challenge 2 (including bonuses).</p>
   </div>
 
   <h3>2) Team Cohesion Multiplier</h3>
@@ -103,6 +104,8 @@ classes: wide
   $$
   \text{Cohesion\_Multiplier} = 1 + \alpha \times \left(\frac{\text{Remaining\_Team\_Members}}{\text{Initial\_Team\_Size}} - 1\right)
   $$
+    <p class="muted"><strong>In other words:</strong> If nobody dropped out this equals 1. However the Cohesion Multiplier shrinks in proportion to proportion of teammats lost.</p>
+
   </div>
   <p class="muted">If all members remain, the ratio is 1 and the multiplier is 1. Fewer remaining members lower the multiplier. We use \(\alpha = 1.0\) by default.</p>
 
@@ -113,6 +116,7 @@ classes: wide
   0.5 \times \frac{\text{Remaining\_Coding\_Experience}}{\text{Initial\_Coding\_Experience}} +
   0.5 \times \frac{\text{Remaining\_Antisemitism\_Knowledge}}{\text{Initial\_Antisemitism\_Knowledge}}
   $$
+    <p class="muted"><strong>In other words:</strong> Average two fractions—how much coding skill the teams kept and how much prior knowledge on antisemitism the teams kept (50/50).</p>
   </div>
 
   <h3>4) Final Score</h3>
@@ -120,6 +124,8 @@ classes: wide
   $$
   \text{Final\_Score} = \text{Total\_Score} \times \text{Cohesion\_Multiplier} \times \text{Capacity\_Multiplier}
   $$
+    <p class="muted"><strong>In Other words</strong> We take the base score and scale it by the two multipliers—teams that stayed intact and kept skills retain more of their points.</p>
+
   </div>
 </section>
 
