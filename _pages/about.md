@@ -10,7 +10,7 @@ redirect_from:
 ## 📢 Recent News & Updates
 
 ### August
-- After an exhilarating sprint through the [ISCA Datathon & Machine Learning Competition](https://github.com/damieh1/datathon_2025), I've finalized my evaluation. I developed also a [framework](https://damieh1.github.io/evaluation) that ensures a fair and transparent process that rewards teams who stick together while accounting for dropouts.
+- After an exhilarating sprint through the [ISCA Datathon & Machine Learning Competition](https://github.com/damieh1/datathon_2025), I've finalized my evaluation. Addtionally, I've developed a [framework](https://damieh1.github.io/evaluation) that ensures a fair and transparent evaluation that rewards teams who stick together while accounting for dropouts.
 - I'm happy to announce that our long paper, **Analyzing Polarization in Online Discourse on the 2023-2024 Israel–Hamas War** (*Daniel Miehling, Daniel Dakota and Sandra Kübler*), has been accepted for the [5th Workshop on Computational Linguistics for the Political and Social Sciences](https://cpss-sig.github.io/CPSS-2025/program.html) (CPSS) as part of the Konvens conference proceedings in Hildesheim in 2025.
 - Preparations for the upcoming fall semester are in full swing. I will be teaching the course ["European Antisemitism. From the Origins to 1933."](https://www.coursicle.com/indiana/professors/Daniel+Miehling), which is crosslisted in Jewish Studies and History. 
 
