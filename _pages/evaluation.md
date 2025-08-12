@@ -24,7 +24,7 @@ classes: wide
 </style>
 
 <header>
-  <h1>Fair Scoring Methodology</h1>
+  <h2>Scoring fair isn't always easy... :-)</h2>
   <p class="muted">Evaluating performance, team cohesion, and skill retention transparently.</p>
 </header>
 
@@ -131,7 +131,7 @@ classes: wide
 
 ---
 
-## Here is a fictional example of how we handled the evaluation based on Team X's scores.
+## Here is a fictional example of how to handle evaluation scores.
 
 **Inputs:**
 - Total_Score = 115  
