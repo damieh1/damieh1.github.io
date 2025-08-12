@@ -104,10 +104,10 @@ classes: wide
   $$
   \text{Cohesion\_Multiplier} = 1 + \alpha \times \left(\frac{\text{Remaining\_Team\_Members}}{\text{Initial\_Team\_Size}} - 1\right)
   $$
-    <p class="muted"><strong>In other words:</strong> If nobody dropped out this equals 1. However the Cohesion Multiplier shrinks in proportion to proportion of teammats lost.</p>
+    <p class="muted"><strong>In other words:</strong> If nobody dropped out, this would equal 1. However, the Cohesion Multiplier shrinks in proportion to the number of teammates lost.</p>
 
   </div>
-  <p class="muted">If all members remain, the ratio is 1 and the multiplier is 1. Fewer remaining members lower the multiplier. We use \(\alpha = 1.0\) by default.</p>
+  <p class="muted">If everyone remains, the ratio is 1:1, but if there are fewer members left, the multiplier goes down. We use \(\alpha = 1.0\) by default.</p>
 
   <h3>3) Skill Retention (Capacity) Multiplier</h3>
   <div class="eq">
@@ -124,7 +124,7 @@ classes: wide
   $$
   \text{Final\_Score} = \text{Total\_Score} \times \text{Cohesion\_Multiplier} \times \text{Capacity\_Multiplier}
   $$
-    <p class="muted"><strong>In Other words</strong> We take the base score and scale it by the two multipliers—teams that stayed intact and kept skills retain more of their points.</p>
+    <p class="muted"><strong>In Other words</strong> We take the base score and scale it by the two multipliers. Teams that stayed intact and kept their skills get to keep more of their points..</p>
 
   </div>
 </section>
