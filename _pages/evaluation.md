@@ -131,7 +131,7 @@ classes: wide
 
 ---
 
-## Here is an example of how we handled the evaluation based on Team 2's scores.
+## Here is a fictional example of how we handled the evaluation based on Team X's scores.
 
 **Inputs:**
 - Total_Score = 115  
