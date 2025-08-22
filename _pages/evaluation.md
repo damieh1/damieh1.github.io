@@ -159,6 +159,6 @@ $$
 $$
 
 **Interpretation:**  
-While Team 2 produced strong deliverables, a 40% reduction in team size and loss of topical and technical expertise reduced their final ranking.
+While the Team produced strong deliverables, a 40% reduction in team size and loss of topical and technical expertise reduced their final ranking.
 
 ---
