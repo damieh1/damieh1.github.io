@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 
-### Linguistic Analysis of Social Media *(Spring 2026)*, Undergraduate Seminar, Indiana University
+### Linguistic Analysis of Social Media and User-Generated Content in Web 2.0 *(Spring 2026)*, Undergraduate Seminar, Indiana University
 
 - Course Description (LING-L 210 (13323))
 
