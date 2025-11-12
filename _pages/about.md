@@ -9,8 +9,14 @@ redirect_from:
 
 ## 📢 Recent News & Updates
 
+### November
+- Updated my publich [CV](https://github.com/damieh1/damieh1.github.io/blob/master/_pages/public_cv_august25.pdf) and included my latest publications. 
+
+### October 
+- Over the course of the fall semester, I organized the Early Career Speaker Series at [ISCA](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html), featuring 12 emerging scholars across six sessions. Three recordings are already available on our YouTube channel—check them out! [Link to YouTube](https://www.youtube.com/watch?v=euIqAE0BTRE&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=3)
+
 ### August
-- After an exhilarating sprint through the [ISCA Datathon & Machine Learning Competition](https://github.com/damieh1/datathon_2025), I've finished evaluating the competing teams. To ensure a fair evaluation, I've developed a [framework](https://damieh1.github.io/evaluation) that provides a fair and transparent evaluation, rewarding teams that stick together while accounting for dropouts.
+- After an exhilarating sprint through the [ISCA Datathon & Machine Learning Competition](https://github.com/damieh1/datathon_2025), I've finished evaluating the competing teams. To ensure a consistant evaluation, I've developed a [framework](https://damieh1.github.io/evaluation) that provides a fair and transparent framework, rewarding teams that stick together while accounting for dropouts.
 - I'm happy to announce that our long paper, **Analyzing Polarization in Online Discourse on the 2023-2024 Israel–Hamas War** (*Daniel Miehling, Daniel Dakota and Sandra Kübler*), has been accepted for the [5th Workshop on Computational Linguistics for the Political and Social Sciences](https://cpss-sig.github.io/CPSS-2025/program.html) (CPSS) as part of the Konvens conference proceedings in Hildesheim in 2025.
 - Preparations for the upcoming fall semester are in full swing. I will be teaching the course ["European Antisemitism. From the Origins to 1933."](https://www.coursicle.com/indiana/professors/Daniel+Miehling), which is crosslisted in Jewish Studies and History. 
 
