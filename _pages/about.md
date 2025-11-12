@@ -10,7 +10,7 @@ redirect_from:
 ## 📢 Recent News & Updates
 
 ### November
-- Updated my public [CV](https://raw.github.com/damieh1/damieh1.github.io/blob/master/_pages/public_cv_august25.pdf) and included my latest publications. 
+- Updated my public [CV](https://raw.github.com/damieh1.github.io/blob/master/_pages/public_cv_august25.pdf) and included my latest publications. 
 
 ### October 
 - Over the course of the fall semester, I organized the Early Career Speaker Series at [ISCA](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html), featuring 12 emerging scholars across six sessions. Three recordings are already available on our YouTube channel—check them out! [Link to YouTube](https://www.youtube.com/watch?v=euIqAE0BTRE&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=3)
