@@ -30,7 +30,7 @@ We averaged **90 unique attendees per session**, and now **all recordings are av
 
 3. **Antisemitism and the Digital Sphere**  
    *Speakers:* Lev Topor, Daniel Miehling  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=3)
+   [Watch on YouTube](https://youtu.be/euIqAE0BTRE?list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&t=1)
 
 4. **Campus Climate, Identity, and Belonging**  
    *Speakers:* Yael Silverstein, Nadia Beider  
