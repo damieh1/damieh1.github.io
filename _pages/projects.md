@@ -12,7 +12,7 @@ redirect_from:
 ## Projects & Activities
 
 - [**Early Career Speaker Series – Interdisciplinary Perspectives on Historical Legacies and Persistent Challenges**](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html) *Fall 2025*, Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University  
-  **Series Organizer and Moderator**
+  **Series Organizer and Moderator** | Find the Webinar Recordings [**here**](/speaker_series.md)
 
 ![2025 Early Career Speaker Series](/images/speakers_2025.png)
 
