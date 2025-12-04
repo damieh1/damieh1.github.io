@@ -22,11 +22,11 @@ We averaged **90 unique attendees per session**, and now **all recordings are av
 ### Session Overview with Links
 1. **Framing Antisemitism in International and Historical Contexts**  
    *Speakers:* Batsheva Neuer, Tami Peterson  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=2)
+   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=1)
 
 2. **Left-Wing Antisemitism and Anti-Zionism**  
    *Speakers:* Matheus Alexandré, Maor Shani  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=1)
+   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=2)
 
 3. **Antisemitism and the Digital Sphere**  
    *Speakers:* Lev Topor, Daniel Miehling  
