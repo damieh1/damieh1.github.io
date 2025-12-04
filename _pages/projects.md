@@ -18,14 +18,14 @@ redirect_from:
 
 ---
 
-- https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html *(2023 & 2025)*, Indiana University  
+- [**2025 Datathon & Machine Learning Competition**](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html) *(2023 & 2025)*, Indiana University  
   **Computational Research Coordinator** | Organized competitions on [Git](https://github.com/damieh1/datathon_2025) and machine learning approaches to detect antisemitism.
 
 ![2025 Datathon Concept](/images/concept_datathon.jpg)
 
 ---
 
-- https://isca.indiana.edu/publication-research/social-media-project/index.html *(2025–Present)*, Indiana University  
+- [**Research Lab "Social Media & Hate"**](https://isca.indiana.edu/publication-research/social-media-project/index.html) *(2025–Present)*, Indiana University  
   Coordination and management of interdisciplinary antisemitism research.
 
 - **Student Advisor**, FADS Program (Faculty Assistance in Data Science) *Summer 2024*, Indiana University
