@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: ""
+permalink: /speaker_series/
+author_profile: true
+redirect_from:
+  - /resume
+---
 ## Early Career Speaker Series – Fall 2025
 
 Organized and moderated by **Daniel Miehling** (Samerian Research Fellow) and **Rachel Kelly** from the Institute for the Study of Contemporary Antisemitism at Indiana University.
