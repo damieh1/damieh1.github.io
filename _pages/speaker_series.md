@@ -34,15 +34,15 @@ We averaged **90 unique attendees per session**, and now **all recordings are av
 
 4. **Campus Climate, Identity, and Belonging**  
    *Speakers:* Yael Silverstein, Nadia Beider  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=4)
+   [Watch on YouTube](https://www.youtube.com/watch?v=-0ZrQyK1sKo&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=4)
 
 5. **Antisemitism in Progressive and Academic Contexts**  
    *Speakers:* Talia Rockman, Perla Matusof  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=5)
+   [Watch on YouTube](https://www.youtube.com/watch?v=SKmWC2kNR3I&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=5)
 
 6. **Weaponizing Holocaust Memory and Antisemitism in the Ivory Tower**  
    *Speakers:* Marlene Gallner, Zahava Feldstein  
-   [Watch on YouTube](https://www.youtube.com/watch?v=TJ_c1Jnj56Q&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=6)
+   [Watch on YouTube](https://www.youtube.com/watch?v=Svob6ghhpMo&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=6)
 
 ---
 
