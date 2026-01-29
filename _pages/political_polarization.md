@@ -20,13 +20,15 @@ The project conducts empirical research on how social narratives circulate onlin
 
 To date, the project comprises four empirical studies:
 
-### Study 1: Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis  
+### Study 1: Investigating Polarization in YouTube Comments via Aspect-Based Sentiment Analysis   
 *Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing – Natural Language Processing in the Generative AI Era*
+[Download paper](https://aclanthology.org/2025.ranlp-1.83/)
 
 This study uses aspect-based sentiment analysis (ABSA) to analyze polarization in online discourse based on more than three million user comments and replies from YouTube Shorts. A manually annotated subset is used to train and evaluate a domain-adapted ABSA model. The results show that fine-grained sentiment analysis provides reliable insights into how politically and ideologically charged topics are discussed over time and across outlets.
 
 ### Study 2: Analyzing Polarization in Online Discourse on the 2023–2024 Israel–Hamas War  
 *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 7–16, Hannover, Germany*
+[Download paper](https://aclanthology.org/2025.konvens-2.1/)
 
 This study applies large-scale sentiment analysis to the same corpus to track longitudinal changes in user attitudes over the course of one year. The analysis shows that aggregate sentiment trends reflect reactions to geopolitical developments, while also demonstrating that meaningful interpretation requires the combination of automatic analysis with domain-specific expertise.
 
