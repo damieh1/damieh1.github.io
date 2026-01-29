@@ -10,7 +10,7 @@ classes: wide
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video · sentiment analysis · user engagement · online discourse
 
-<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="350">
+<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="380">
 
 ---
 
