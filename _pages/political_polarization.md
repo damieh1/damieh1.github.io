@@ -5,6 +5,12 @@ layout: single
 mathjax: true
 classes: wide
 ---
+# New Methods for Multimodal Analysis of Political Communication in Algorithmic Social Media
+
+**Keywords:**  
+multimodal analysis · computational social science · political communication · algorithmic social media · short-form video · sentiment analysis · user engagement · online discourse
+
+---
 
 When conducting research on online discourse, scholars often ask two questions: how much antisemitism is present, and how it can be measured. However, many factors that shape why certain narratives gain traction online receive less attention. This project addresses this gap by examining forms of online discourse that primarily drive user engagement on social media, with particular attention to the role of emotion.
 
