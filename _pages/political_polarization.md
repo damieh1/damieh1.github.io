@@ -10,7 +10,7 @@ classes: wide
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video · sentiment analysis · user engagement · online discourse
 
-![2025 Early Career Speaker Series](/images/speakers_2025.png)
+![2025 Early Career Speaker Series](/images/slideshow_3s_per_image.gif)
 
 ---
 
