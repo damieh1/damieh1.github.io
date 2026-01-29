@@ -14,7 +14,7 @@ multimodal analysis · computational social science · political communication �
 
 ---
 
-When conducting research on online discourse, scholars often ask two questions: how much antisemitism is present, and how it can be measured. However, many factors that shape why certain narratives gain traction online receive less attention. This project addresses this gap by examining forms of online discourse that primarily drive user engagement on social media, with particular attention to the role of emotion.
+When conducting research on online discourse, scholars often ask two questions: how much antisemitism is present, and how it can be measured. However, many factors that shape why certain narratives gain traction online receive less attention. This project addresses this gap by examining forms of online discourse that primarily drive user engagement on social media, with particular attention to the role of emotional toning.
 
 The project conducts empirical research on how social narratives circulate online by analyzing international news content on social media platforms. It focuses on state-funded and state-supported outlets such as Al Jazeera, the BBC, Deutsche Welle, and TRT World. Using longitudinal analysis, the project measures the proportionality and dynamics of content related to the aftermath of the Israel–Hamas war since October 7, 2023.
 
