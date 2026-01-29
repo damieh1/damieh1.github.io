@@ -1,5 +1,5 @@
 ---
-title: "2025 Early Career Speaker Series "
+title: "NLP 4 Good"
 permalink: /political_polarization/
 layout: single
 mathjax: true
@@ -10,7 +10,7 @@ classes: wide
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video · sentiment analysis · user engagement · online discourse
 
-![2025 Early Career Speaker Series](/images/slideshow_3s_per_image.gif)
+<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="350">
 
 ---
 
