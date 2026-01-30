@@ -19,10 +19,10 @@ Studying the extent of online hate speech and antisemitism is essential to under
 
 **Key questions driving the project include:**
 
-a) What methodological advances are necessary to analyze online hate and measure multimodal content effectively?  
-b) How can these dynamics be **robustly measured at scale** and tracked longitudinally?  
-c) What **recurring visual frames** appear in today’s increasingly dominant short-form video content?  
-d) Which metrics best explain why **polarizing narratives spread** widely on Web 2.0 platforms?
+1. What methodological advances are necessary to analyze online hate and measure multimodal content effectively?
+2. How can these dynamics be robustly measured at scale and tracked longitudinally?
+3. What recurring visual frames appear in today’s increasingly dominant short-form video content?
+4. Which metrics best explain why polarizing narratives spread widely on Web 2.0 platforms?
 
 These questions are addressed through a series of high-quality NLP-based research papers.
 
