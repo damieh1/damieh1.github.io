@@ -5,7 +5,7 @@ layout: single
 mathjax: true
 classes: wide
 ---
-# Political Polarization in the Age of Polycrises
+# Methodological Advances in the Study of Online Antisemitism: Political Polarization in the Age of Polycrises
 
 <img src="/images/header.PNG" alt="header" width="350">
 
