@@ -105,6 +105,6 @@ The project is in the process of releasing a **curated dataset** that supports r
 This research project is led by **Daniel Miehling** (PhD).
 
 - **Email:** damieh@iu.edu  
-- **GitHub:** <https://github.com/damieh1>  
+- **GitHub:** <https://damieh1.github.io/>  
 
 *If you use or cite this project, a short note is always greatly appreciated.*
