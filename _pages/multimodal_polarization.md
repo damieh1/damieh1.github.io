@@ -1,5 +1,4 @@
 ---
-title: "NLP 4 Good"
 permalink: /multimodal_polarization/
 layout: single
 mathjax: true
