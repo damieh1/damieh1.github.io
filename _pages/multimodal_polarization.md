@@ -5,7 +5,7 @@ mathjax: true
 classes: wide
 ---
 # Methodological Advances in the Study of Online Antisemitism:
-<img src="/images/header.PNG" alt="header" width="450">
+<img src="/images/header.PNG" alt="header" width="550">
 
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video
