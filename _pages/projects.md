@@ -11,17 +11,18 @@ redirect_from:
 
 ## Projects & Activities
 
+- [**Methodological Advances in the Study of Online Antisemitism:**](https://damieh1.github.io/multimodal_polarization) 
+<img src="/images/header.PNG" alt="header" width="550">
+
 - [**Early Career Speaker Series – Interdisciplinary Perspectives on Historical Legacies and Persistent Challenges**](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html) *Fall 2025*, Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University  
   **Series Organizer and Moderator** | Find the Webinar Recordings [**here**](https://damieh1.github.io/speaker_series)
-
-![2025 Early Career Speaker Series](/images/speakers_2025.png)
+<img src="/images/speakers_2025.png" alt="speakers_2025" width="550">
 
 ---
 
 - [**2025 Datathon & Machine Learning Competition**](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html) *(2023 & 2025)*, Indiana University  
   **Computational Research Coordinator** | Organized competitions on [Git](https://github.com/damieh1/datathon_2025) and machine learning approaches to detect antisemitism.
-
-![2025 Datathon Concept](/images/concept_datathon.jpg)
+<img src="/images/concept_datathon.jpg" alt="concept_datathon" width="550">
 
 ---
 
