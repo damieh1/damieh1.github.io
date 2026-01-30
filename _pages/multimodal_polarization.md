@@ -6,7 +6,7 @@ classes: wide
 ---
 # Methodological Advances in the Study of Online Antisemitism: Political Polarization in the Age of Polycrises
 
-<img src="/images/header.PNG" alt="header" width="350">
+<img src="/images/header.PNG" alt="header" width="450">
 
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video
@@ -27,6 +27,8 @@ d) Which metrics best explain why **polarizing narratives spread** widely on soc
 These questions are addressed through a series of high-quality NLP-based research papers.
 
 The paper series conducts empirical research on how political narratives circulate online by analyzing international news content, particularly on YouTube—the second most visited website worldwide. It focuses on state-funded and state-supported outlets, such as **Al Jazeera, the BBC, Deutsche Welle, and TRT World**. Using a longitudinal approach, the project measures the proportionality and dynamics of content related to the aftermath of the **Israel–Hamas war since October 7, 2023**.
+
+<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="250">
 
 ---
 
