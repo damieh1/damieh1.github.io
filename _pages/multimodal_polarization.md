@@ -4,7 +4,7 @@ layout: single
 mathjax: true
 classes: wide
 ---
-# Methodological Advances in the Study of Online Antisemitism:
+## Methodological Advances in the Study of Online Antisemitism:
 <img src="/images/header.PNG" alt="header" width="550">
 
 **Keywords:**  
