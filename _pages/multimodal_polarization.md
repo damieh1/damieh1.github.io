@@ -4,8 +4,7 @@ layout: single
 mathjax: true
 classes: wide
 ---
-# Methodological Advances in the Study of Online Antisemitism: Political Polarization in the Age of Polycrises
-
+# Methodological Advances in the Study of Online Antisemitism:
 <img src="/images/header.PNG" alt="header" width="450">
 
 **Keywords:**  
