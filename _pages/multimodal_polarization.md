@@ -64,7 +64,7 @@ The paper series conducts empirical research on how political narratives circula
 
 ### Study 4: How to Investigate Short‑Form Video Content — A Pipeline for Multimodal Analysis *(under review)*
 
-This study shifts the analytical focus to the videos themselves by examining audio and visual layers of short-form news content. It introduces a **multimodal pipeline** that combines automatic transcription, sentiment analysis, and **visual scene classification** to analyze variation in sentiment and framing across outlets and over time.  
+This study shifts the analytical focus to so-called short videos by examining audio and visual layers of news content. It introduces a **multimodal pipeline** that combines automatic transcription, aspect-based sentiment analysis (ABSA), and **visual scene classification** to analyze variation in sentiment and framing across outlets and over time.  
 **Link:** (forthcoming)
 
 ---
