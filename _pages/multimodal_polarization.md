@@ -18,12 +18,12 @@ Studying the extent of online hate speech and antisemitism is essential to under
 *Beyond* **the written word**, the project analyzes the **multifaceted layers of political communication** by utilizing cutting-edge technology that incorporates both **audio and visual signals** into its analysis, aiming to understand and scale the dynamics that create fertile ground for hostility in digital realms.
 
 **Key questions driving the project include:**
-```
+
 a) What methodological advances are necessary to analyze online hate and measure multimodal content effectively?  
 b) How can these dynamics be **robustly measured at scale** and tracked longitudinally?  
 c) What **recurring visual frames** appear in today’s increasingly dominant short-form video content?  
-d) Which metrics best explain why **polarizing narratives spread** widely on social platforms?
-```
+d) Which metrics best explain why **polarizing narratives spread** widely on Web 2.0 platforms?
+
 These questions are addressed through a series of high-quality NLP-based research papers.
 
 The paper series conducts empirical research on how political narratives circulate online by analyzing international news content, particularly on YouTube—the second most visited website worldwide. It focuses on state-funded and state-supported outlets, such as **Al Jazeera, the BBC, Deutsche Welle, and TRT World**. Using a longitudinal approach, the project measures the proportionality and dynamics of content related to the aftermath of the **Israel–Hamas war since October 7, 2023**.
