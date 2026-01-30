@@ -7,7 +7,7 @@ classes: wide
 ---
 # Political Polarization in the Age of Polycrises
 
-<img src="/images/header.png" alt="Slides" width="350">
+<img src="/images/header.PNG" alt="header" width="350">
 
 **Keywords:**  
 multimodal analysis · computational social science · political communication · algorithmic social media · short-form video
