@@ -9,6 +9,17 @@ redirect_from:
 
 ## 📢 Recent News & Updates
 
+## 2026
+
+### January
+- Spring 2026 is here. I'm teaching a class in linguistics called ["Topics in Language and Society."](https://www.coursicle.com/indiana/courses/LINGL/210/)
+- Updated my [Projects](https://damieh1.github.io//projects/). 
+
+## 2025
+
+### December
+- Finished teaching, and I'm happy to take some time off over the winter break.
+
 ### November
 - Updated my public [CV](https://raw.githubusercontent.com/damieh1/damieh1.github.io/master/_pages/public_cv_august25.pdf) and included my latest publications. 
 
