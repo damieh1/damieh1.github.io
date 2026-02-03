@@ -15,7 +15,9 @@ multimodal analysis · computational social science · political communication �
 
 Studying the extent of online hate speech and antisemitism is essential to understanding the dynamics of digital discourse, which can help predict ongoing societal changes beyond the digital realm. However, the underlying factors that make antisemitic narratives so persuasive are frequently overlooked. This project focuses on emotive layers embedded in digital media that influence the spread of hate speech and antisemitism. It examines how frequently users devalue Jews and Israel, contrasting these expressions with those directed at opposing entities, including instances of sympathy for, or even endorsement of, violent actors such as Hamas. 
 
-*Beyond* **the written word**, the project analyzes the **multifaceted layers of political communication** by utilizing cutting-edge technology that incorporates both **audio and visual signals** into its analysis, aiming to understand and scale the dynamics that create fertile ground for hostility in digital realms.
+### *Beyond the Written Word...*
+
+*Beyond the written word*, the project analyzes the **multifaceted layers of political communication** by utilizing cutting-edge technology that incorporates both **audio and visual signals** into its analysis, aiming to understand and scale the dynamics that create fertile ground for hostility in digital realms.
 
 **Key questions driving the project include:**
 
@@ -81,7 +83,7 @@ This study examines **affective polarization** in user responses to short-form n
 *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 7–16, Hannover, Germany.*  
 **Download paper:** <https://aclanthology.org/2025.konvens-2.1/>
 
-This study applies **large-scale sentiment analysis** to the same corpus to track longitudinal changes in user attitudes over the course of one year. The analysis shows that aggregate sentiment trends reflect reactions to geopolitical developments, while also demonstrating that meaningful interpretation requires pairing automated analysis with domain expertise.
+This study applies **large-scale sentiment analysis** to track longitudinal changes in user attitudes over the course of one year. The analysis shows that aggregate sentiment trends reflect reactions to geopolitical developments, while also demonstrating that meaningful interpretation requires pairing automated analysis with domain expertise.
 
 ---
 
