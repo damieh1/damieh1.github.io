@@ -12,6 +12,10 @@ redirect_from:
 ## 2026
 
 ### January
+- New [Review](https://doi.org/10.5771/0010-3497-2025-4-595) in [Communicatio Socialis (ComSoc)](https://www.inlibra.com/de/document/view/detail/uuid/2103d083-1457-3fb8-8ab9-7c35c5c07c9e) onfmy book [**"Online-Antisemitismus verstehen"**](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3) (*Understanding Online Antisemitism*), published in 2024.
+
+<img src="/images/review_online_antisemitismus.png" alt="header" width="250">
+
 - Spring 2026: This semester, I'm teaching a course in linguistics on ["Topics in Language and Society."](https://www.coursicle.com/indiana/courses/LINGL/210/)
 - Updated my [Projects](https://damieh1.github.io//projects/). 
 
