@@ -12,7 +12,7 @@ redirect_from:
 ## 2026
 
 ### January
-- There is a new [review](https://doi.org/10.5771/0010-3497-2025-4-595) in [Communicatio Socialis (ComSoc)](https://www.inlibra.com/de/document/view/detail/uuid/2103d083-1457-3fb8-8ab9-7c35c5c07c9e) of my book [**"Online-Antisemitismus verstehen"**](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3) (*Understanding Online Antisemitism*), published in October 2024.
+- There is a new [review](https://doi.org/10.5771/0010-3497-2025-4-595) in *Communicatio Socialis* [(ComSoc)](https://www.inlibra.com/de/document/view/detail/uuid/2103d083-1457-3fb8-8ab9-7c35c5c07c9e) of my book [**"Online-Antisemitismus verstehen"**](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3) (*Understanding Online Antisemitism*), published in October 2024.
 
 <img src="/images/review_online_antisemitismus.png" alt="header" width="250">
 
