@@ -12,7 +12,7 @@ redirect_from:
 ## 2026
 
 ### January
-- The spring 2026 semester has just started. This semester, I'm teaching a course in linguistics on ["Topics in Language and Society."](https://www.coursicle.com/indiana/courses/LINGL/210/)
+- Spring 2026: This semester, I'm teaching a course in linguistics on ["Topics in Language and Society."](https://www.coursicle.com/indiana/courses/LINGL/210/)
 - Updated my [Projects](https://damieh1.github.io//projects/). 
 
 ## 2025
