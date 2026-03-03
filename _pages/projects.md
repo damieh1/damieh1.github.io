@@ -22,8 +22,8 @@ redirect_from:
 
 - [**2025 Datathon & Machine Learning Competition**](https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html) *(2023 & 2025)*, Indiana University  
   **Computational Research Coordinator** | Organized competitions on [Git](https://github.com/damieh1/datathon_2025) and machine learning approaches to detect antisemitism (including the development of an [Evaluation Framework](https://damieh1.github.io/evaluation/).
-  
-<img src="/images/concept_datathon.jpg" alt="concept_datathon" width="550">
+
+<img src="/images/datathon_flzer.jpg" alt="datathon_flyer" width="300"> <img src="/images/concept_datathon.jpg" alt="concept_datathon" width="400">
 
 ---
 
