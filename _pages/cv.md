@@ -26,7 +26,7 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
 
 ## Technical Skills
 - **Languages**: __Python__, __R__, __LaTeX__  
-- **Tools**: Git, LabelStudio, Jira, JetStream2, GPU computing
+- **Tools**: Git, LabelStudio, Jira, JetStream2, GPU computing, CANVAS, TOPHAT
 
 ---
 
@@ -46,4 +46,3 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
   
 ---
 
-[Download Full CV (PDF)](https://github.com/damieh1/damieh1.github.io/raw/master/_pages/public_cv_august25.pdf)
