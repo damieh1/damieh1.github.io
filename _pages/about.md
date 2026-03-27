@@ -12,7 +12,8 @@ redirect_from:
 ## 2026
 
 ### March
-- In collaboration with Katharina Soemer and Günther Jikeli, our paper 'Antisemitische Diskurse in deutschen Tweets vor dem 7. Oktober 2023: Eine Analyse von Online-Kommunikationen über ,Juden‘ und ,Israel‘ von 2019 bis 2022 auf Twitter" (Antisemitic Discourse in German-Language Tweets Prior to October 7, 2023. An Analysis of Online Communications about ‘Jews’ and ‘Israel’ on Twitter from 2019 to 2022) has been published [open access](https://link.springer.com/article/10.1007/s41682-026-00248-8) in *Zeitschrift für Religion, Gesellschaft und Politik* [(Journal for Religion, Society and Politics)](https://link.springer.com/journal/41682).
+- I published a curated dataset comprising the metadata of 2,370 publicly accessible YouTube Shorts disseminated by four prominent international news outlets covering the Israel–Hamas war between October 2023 and October 2024. *Available on* [Zenodo](https://zenodo.org/records/18017938). 
+- Our paper 'Antisemitische Diskurse in deutschen Tweets vor dem 7. Oktober 2023: Eine Analyse von Online-Kommunikationen über ,Juden‘ und ,Israel‘ von 2019 bis 2022 auf Twitter" (*Katharina Soemer, Daniel Miehling and Günther Jikeli*) has been published [open access](https://link.springer.com/article/10.1007/s41682-026-00248-8) in *Zeitschrift für Religion, Gesellschaft und Politik* [(Journal for Religion, Society and Politics)](https://link.springer.com/journal/41682).
 
 <img src="/images/zrgp.png" alt="journal" width="100">
 
