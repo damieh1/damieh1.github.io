@@ -67,7 +67,7 @@ The paper series conducts empirical research on how political narratives circula
 
 ### Study 4: Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts
 
-<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://www.ilc.cnr.it/wp-content/uploads/2025/07/LREC2026.png" alt="LREC2026" width="4.65%">
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="25%"> <img src="https://www.ilc.cnr.it/wp-content/uploads/2025/07/LREC2026.png" alt="LREC2026" width="5.7%">
 
 *Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)*
 **Download paper:** in print
@@ -78,7 +78,7 @@ YouTube Shorts have become central to news consumption on the platform, yet rese
 
 ### Study 3: Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War
 
-<img src="https://images.squarespace-cdn.com/content/v1/685abf29badff21c522541c8/808dd9b5-ce92-4e55-91c2-85015b3fb3c4/DHR_H_Light.png?format=500w" alt="DHA" width="15%">
+<img src="https://images.squarespace-cdn.com/content/v1/685abf29badff21c522541c8/808dd9b5-ce92-4e55-91c2-85015b3fb3c4/DHR_H_Light.png?format=500w" alt="DHA" width="25%">
 
 **Download paper:** in print
 
@@ -91,7 +91,7 @@ This study examines the application of computational models, particularly Aspect
 
 *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 7–16, Hannover, Germany.*  
 
-<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://cpss-sig.github.io/CPSS-2025/gscl_en_light.svg" alt="ACL" width="20%">
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="25%"> <img src="https://cpss-sig.github.io/CPSS-2025/gscl_en_light.svg" alt="ACL" width="25%">
 
 **Download paper:** <https://aclanthology.org/2025.konvens-2.1/>
 
@@ -103,7 +103,7 @@ We investigate large-scale sentiment analysis of YouTube Shorts in the context o
 
 *Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing – NLP in the Generative AI Era (RANLP 2025).*  
 
-<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://azizcu.github.io/img/pubs/RANLP2025.png" alt="RANLP" width="4.5%">
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="25%"> <img src="https://azizcu.github.io/img/pubs/RANLP2025.png" alt="RANLP" width="5.6%">
 
 **Download paper:** <https://aclanthology.org/2025.ranlp-1.83/>
 
@@ -115,7 +115,7 @@ We investigate the use of Aspect-Based Sentiment Analysis (ABSA) to analyze pola
 
 *YouTube Shorts from Major News Outlets on the Israel–Hamas War (October 2023–October 2024).*   
 
-<img src="https://zenodo.org/static/images/invenio-rdm.svg" alt="Zenodo" width="10%">
+<img src="https://blog.zenodo.org/static/img/logos/zenodo-gradient-1000.png" alt="Zenodo" width="15%">
 
 **Download dataset**: <https://zenodo.org/records/18017938>
 
