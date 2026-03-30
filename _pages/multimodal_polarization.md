@@ -65,18 +65,18 @@ The paper series conducts empirical research on how political narratives circula
 ## Empirical Studies
 
 
-### Study 4: Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts*
+### Study 4: Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts
 
 <img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://www.ilc.cnr.it/wp-content/uploads/2025/07/LREC2026.png" alt="LREC2026" width="4.65%">
 
-*Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)*
+*Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)*
 **Download paper:** in print
 
 YouTube Shorts have become central to news consumption on the platform, yet research on how geopolitical events are represented in this format remains limited. To address this gap, we present a multimodal pipeline that combines automatic transcription, aspect-based sentiment analysis (ABSA), and semantic scene classification. The pipeline is first assessed for feasibility and then applied to analyze short-form coverage of the Israel–Hamas war by state-funded outlets. Using over 2,300 conflict-related Shorts and more than 94,000 visual frames, we systematically examine war reporting across major international broadcasters. Our findings reveal that the sentiment expressed in transcripts regarding specific aspects differs across outlets and over time, whereas scene-type classifications reflect visual cues consistent with real-world events. Notably, smaller domain-adapted models outperform large transformers and even LLMs for sentiment analysis, underscoring the value of resource-efficient approaches for humanities research. The pipeline serves as a template for other short-form platforms, such as TikTok and Instagram, and demonstrates how multimodal methods, combined with qualitative interpretation, can characterize sentiment patterns and visual cues in algorithmically driven video environments.
 
 ---
 
-### Study 3: Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War*
+### Study 3: Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War
 
 <img src="https://images.squarespace-cdn.com/content/v1/685abf29badff21c522541c8/808dd9b5-ce92-4e55-91c2-85015b3fb3c4/DHR_H_Light.png?format=500w" alt="DHA" width="15%">
 
