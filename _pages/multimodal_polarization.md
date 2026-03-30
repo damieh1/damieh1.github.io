@@ -64,42 +64,62 @@ The paper series conducts empirical research on how political narratives circula
 
 ## Empirical Studies
 
-### Study 4: How to Investigate Short‑Form Video Content — A Pipeline for Multimodal Analysis *(under review)*
 
-This study shifts the analytical focus to so-called short videos by examining audio and visual layers of news content. It introduces a **multimodal pipeline** that combines automatic transcription, aspect-based sentiment analysis (ABSA), and **visual scene classification** to analyze variation in sentiment and framing across outlets and over time.  
-**Link:** (forthcoming)
+### Study 4: Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts*
+
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://www.ilc.cnr.it/wp-content/uploads/2025/07/LREC2026.png" alt="LREC2026" width="4.65%">
+
+*Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)*
+**Download paper:** in print
+
+YouTube Shorts have become central to news consumption on the platform, yet research on how geopolitical events are represented in this format remains limited. To address this gap, we present a multimodal pipeline that combines automatic transcription, aspect-based sentiment analysis (ABSA), and semantic scene classification. The pipeline is first assessed for feasibility and then applied to analyze short-form coverage of the Israel–Hamas war by state-funded outlets. Using over 2,300 conflict-related Shorts and more than 94,000 visual frames, we systematically examine war reporting across major international broadcasters. Our findings reveal that the sentiment expressed in transcripts regarding specific aspects differs across outlets and over time, whereas scene-type classifications reflect visual cues consistent with real-world events. Notably, smaller domain-adapted models outperform large transformers and even LLMs for sentiment analysis, underscoring the value of resource-efficient approaches for humanities research. The pipeline serves as a template for other short-form platforms, such as TikTok and Instagram, and demonstrates how multimodal methods, combined with qualitative interpretation, can characterize sentiment patterns and visual cues in algorithmically driven video environments.
 
 ---
 
-### Study 3: Mapping Affective Polarization in YouTube Shorts — A Data‑Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War *(under review)*
+### Study 3: Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War*
 
-This study examines **affective polarization** in user responses to short-form news content published by state-funded media outlets. The analysis reveals systematic differences in sentiment toward key geopolitical and ideological entities, with disproportionately negative evaluations of **Israel** and **Zionism**, contrasted with more positive or sympathetic evaluations of **Palestine** and **Palestinians**. These patterns indicate **polarized evaluative dynamics** in audience reactions and discuss how affective narratives and emotionally charged language shape political communication in Web 2.0 environments.  
-**Link:** (forthcoming)
+<img src="https://images.squarespace-cdn.com/content/v1/685abf29badff21c522541c8/808dd9b5-ce92-4e55-91c2-85015b3fb3c4/DHR_H_Light.png?format=500w" alt="DHA" width="15%">
+
+**Download paper:** in print
+
+This study examines the application of computational models, particularly Aspect-Based Sentiment Analysis (ABSA), to the analysis of political communication in online spaces. The paper provides an in-depth analysis of affective polarization in user-generated content on YouTube Shorts related to the 2023–2024 Israel–Hamas war. By analyzing a dataset comprising over 3.4 million comments and replies, the study utilizes a fine-tuned DeBERTa-v3-large-absa-v1.1 model to trace subtle, nuance-driven sentiment pathways that reveal ideological inclinations towards geopolitical actors. The findings indicate a persistent negative sentiment towards Israel and Zionists, alongside a consistent positive sentiment towards Palestine and Palestinians. Overall, the study illustrates how affective polarization emerges as a reaction to state-funded media discourse. Beyond its methodological contributions, the paper addresses domain adaptation, demonstrating that language imbued with evaluative and emotional undertones can be analyzed and quantitatively assessed to characterize political discourse within Web 2.0 ecosystems. Furthermore, it connects these dynamics to broader discussions surrounding polarization in digital mainstream environments.
+
 
 ---
 
 ### Study 2: Analyzing Polarization in Online Discourse on the 2023–2024 Israel–Hamas War
 
 *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025): Workshops, pages 7–16, Hannover, Germany.*  
+
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://cpss-sig.github.io/CPSS-2025/gscl_en_light.svg" alt="ACL" width="20%">
+
 **Download paper:** <https://aclanthology.org/2025.konvens-2.1/>
 
-This study applies **large-scale sentiment analysis** to track longitudinal changes in user attitudes over the course of one year. The analysis shows that aggregate sentiment trends reflect reactions to geopolitical developments, while also demonstrating that meaningful interpretation requires pairing automated analysis with domain expertise.
+We investigate large-scale sentiment analysis of YouTube Shorts in the context of the 2023-2024 Israel–Hamas war. Using a corpus of over 3 million user comments and replies from four state-funded or state-supported international media channels, we track sentiment toward key geopolitical and ideological entities over the course of one year. We investigate the correspondence between large-scale sentiment analysis and manual fine-grained analysis of trends as well as the correspondence between a logitudinal analysis and geopolitical events. Results show that overall sentiment trends depict user attitudes, but to interpret these patterns correctly, we need domain-specific knowledge and a combination of the automatic analysis with fine-grained manual analysis. We also show that the peaks of a longitudinal analysis correspond to (geo-)political events such as the Eurovision Song Contest.
 
 ---
 
 ### Study 1: Investigating Polarization in YouTube Comments via Aspect‑Based Sentiment Analysis
 
 *Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing – NLP in the Generative AI Era (RANLP 2025).*  
+
+<img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="20%"> <img src="https://azizcu.github.io/img/pubs/RANLP2025.png" alt="RANLP" width="4.5%">
+
 **Download paper:** <https://aclanthology.org/2025.ranlp-1.83/>
 
-This study uses **aspect‑based sentiment analysis (ABSA)** to analyze polarization in online discourse based on **more than three million** user comments and replies from **YouTube Shorts**. A manually annotated subset is used to train and evaluate a domain‑adapted ABSA model. The results show that fine‑grained sentiment analysis provides reliable insights into how politically and ideologically charged topics are discussed over time and across outlets.
+We investigate the use of Aspect-Based Sentiment Analysis (ABSA) to analyze polarization in online discourse. For the analysis, we use a corpus of over 3 million user comments and replies from four state-funded media channels from YouTube Shorts in the context of the 2023 Israel–Hamas war. We first annotate a subsample of approx. 5 000 comments for positive, negative, and neutral sentiment towards a list of topic-related aspects. After training an ABSA model (Yang et al., 2023) on the corpus, we evaluate its performance on this task intrinsically, before evaluating the usability of the automatic analysis of the whole corpus for analyzing polarization. Our results show that the ABSA model achieves an F1 score of 77.9. The longitudinal and outlet analyses corroborate known trends and offer subject experts more fine-grained information about the use of domain-specific language in user-generated content.
 
 ---
 
 ## Further Research Outputs
 
-The project is in the process of releasing a **curated dataset** that supports replication and enables further research on **short‑form news coverage** and online discourse.  
-**Status:** Documentation and schema finalization in progress.  
+*YouTube Shorts from Major News Outlets on the Israel–Hamas War (October 2023–October 2024).*   
+
+<img src="https://zenodo.org/static/images/invenio-rdm.svg" alt="Zenodo" width="10%">
+
+**Download dataset**: <https://zenodo.org/records/18017938>
+
+This dataset comprisies the metadata of 2,370 publicly accessible YouTube Shorts disseminated by four prominent international news outlets covering the Israel–Hamas war between October 2023 and October 2024. It supports replication of the aforementioned studies and enables further research on **short‑form news coverage** and online discourse.  
 
 ---
 
