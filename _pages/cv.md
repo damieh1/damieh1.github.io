@@ -7,11 +7,15 @@ redirect_from:
   - /resume
 ---
 
-**Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist**
+**Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)**
 
-Briding linguistics and computational social science: *Expert in Social Media Analysis, the Study of Contemporary Antisemitism, and Holocaust Distortion*
+**Computational Social Scientist**
 
-**Research interests** include: *Political polarization, Hate Speech and Emotion detection; Large-scale corpora investigations; Corpus Linguistics; User-generated contentmm; Multimodal Data*
+*I study how political narratives and antisemitic discourse emerge and spread across social media platforms using large-scale computational methods.*
+
+### Focus areas:
+Political polarization / Contemporary antisemitism / Multimodal discourse (text–image–video) / Hate speech & emotion detection / Large-scale social media corpora / Corpus Linguistics /
+
 
 ---
 
@@ -25,8 +29,11 @@ Briding linguistics and computational social science: *Expert in Social Media An
 ---
 
 ## Technical Skills
-- **Languages**: __Python__, __R__, __LaTeX__  
-- **Tools**: Git, LabelStudio, Jira, JetStream2, GPU computing, CANVAS, TOPHAT
+- Programming: Python, R
+- NLP & ML: Transformer models, LLMs, parsing, speech-to-text
+- Multimodal Analysis: Vision-language models , video frame extraction, cross-modal pipelines
+- Infrastructure: HPC (Jetstream2), GPU computing, large-scale data processing
+- Tools: Git, Colab, Label Studio, Jira, LaTeX, TOPHAT, Canvas
 
 ---
 
