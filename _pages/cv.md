@@ -9,9 +9,9 @@ redirect_from:
 
 **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html), Computational Social Scientist**
 
-Briding computational linguistics and social sciences: *Expert in Social Media Analysis and the Study of Contemporary Antisemitism and Holocaust Distortion*
+Briding linguistics and computational social science: *Expert in Social Media Analysis, the Study of Contemporary Antisemitism, and Holocaust Distortion*
 
-**Research interests** include: *Political polarization and hate speech, dissemination of digital information, emotion detection, LLMs & transformer models*
+**Research interests** include: *Political polarization, Hate Speech and Emotion detection; Large-scale corpora investigations; Corpus Linguistics; User-generated contentmm; Multimodal Data*
 
 ---
 
@@ -45,4 +45,5 @@ Briding computational linguistics and social sciences: *Expert in Social Media A
 - M.A. Graduate Fellowship *2017–2019*, Studienstiftung des deutschen Volkes
   
 ---
+
 
