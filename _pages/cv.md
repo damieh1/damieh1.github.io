@@ -13,7 +13,7 @@ redirect_from:
 
 *I study how political narratives and antisemitic discourse emerge and spread across social media platforms using large-scale computational methods.*
 
-### Focus areas:
+**Focus areas:**
 Political polarization / Contemporary antisemitism / Multimodal discourse (text–image–video) / Hate speech & emotion detection / Large-scale social media corpora / Corpus Linguistics /
 
 
