@@ -34,34 +34,6 @@ The paper series conducts empirical research on how political narratives circula
 
 ---
 
-## Activities (Talks & Conferences)
-
-### 2026
-- **Analyzing Multimodal Political Communication in State-Funded News**  
-  *Antisemitism & AI Forum, Contemporary Antisemitism*, Haifa, Israel.
-
-### 2025
-- **Affect Mobilization on YouTube: Emotional Toning in State-Funded News Outlets Covering the Israel–Hamas War**  
-  *ISCA Early Career Speaker Series*, Indiana University, USA.
-
-- **Analyzing Polarization in Online Discourse on the 2023–2024 Israel–Hamas War**  
-  *5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS)*, University of Hildesheim, Germany.
-
-- **Analyzing State Media and Online Commentary After October 7: A Longitudinal Study of Sentiment and Narrative**  
-  *Touro University*, New York City, USA.
-
-- **Emotion in Motion: Shifting Narratives and Sentiment in State Media and Social Discourse After October 7**  
-  *Brock University*, St. Catharines, Canada.
-
-- **Antisemitic Discourses and Discourses on Antisemitism Post–October 7**  
-  *Jewish Community Centre*, London, UK.
-
-- **Tracking Sentiment Shifts and Linguistic Patterns in Online Discourse After October 7**  
-  *NLP Lab, Luddy School of Informatics, Indiana University*, USA.
-
-
----
-
 ## Empirical Studies
 
 
@@ -69,7 +41,7 @@ The paper series conducts empirical research on how political narratives circula
 
 <img src="https://www.random-nodes.com/wp-content/uploads/2022/04/ACL_Anthology_logo-1.jpg" alt="ACL" width="25%"> <img src="https://www.ilc.cnr.it/wp-content/uploads/2025/07/LREC2026.png" alt="LREC2026" width="5.7%">
 
-*Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)*
+*Proceedings of the Fourteenth Language Resources and Evaluation Conference (LREC 2026)*
 **Download paper:** in print
 
 YouTube Shorts have become central to news consumption on the platform, yet research on how geopolitical events are represented in this format remains limited. To address this gap, we present a multimodal pipeline that combines automatic transcription, aspect-based sentiment analysis (ABSA), and semantic scene classification. The pipeline is first assessed for feasibility and then applied to analyze short-form coverage of the Israel–Hamas war by state-funded outlets. Using over 2,300 conflict-related Shorts and more than 94,000 visual frames, we systematically examine war reporting across major international broadcasters. Our findings reveal that the sentiment expressed in transcripts regarding specific aspects differs across outlets and over time, whereas scene-type classifications reflect visual cues consistent with real-world events. Notably, smaller domain-adapted models outperform large transformers and even LLMs for sentiment analysis, underscoring the value of resource-efficient approaches for humanities research. The pipeline serves as a template for other short-form platforms, such as TikTok and Instagram, and demonstrates how multimodal methods, combined with qualitative interpretation, can characterize sentiment patterns and visual cues in algorithmically driven video environments.
@@ -120,6 +92,34 @@ We investigate the use of Aspect-Based Sentiment Analysis (ABSA) to analyze pola
 **Download dataset**: <https://zenodo.org/records/18017938>
 
 This dataset comprisies the metadata of 2,370 publicly accessible YouTube Shorts disseminated by four prominent international news outlets covering the Israel–Hamas war between October 2023 and October 2024. It supports replication of the aforementioned studies and enables further research on **short‑form news coverage** and online discourse.  
+
+---
+
+## Talks & Conferences
+
+### 2026
+- **Analyzing Multimodal Political Communication in State-Funded News**  
+  *Antisemitism & AI Forum, Contemporary Antisemitism*, Haifa, Israel.
+
+### 2025
+- **Affect Mobilization on YouTube: Emotional Toning in State-Funded News Outlets Covering the Israel–Hamas War**  
+  *ISCA Early Career Speaker Series*, Indiana University, USA.
+
+- **Analyzing Polarization in Online Discourse on the 2023–2024 Israel–Hamas War**  
+  *5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS)*, University of Hildesheim, Germany.
+
+- **Analyzing State Media and Online Commentary After October 7: A Longitudinal Study of Sentiment and Narrative**  
+  *Touro University*, New York City, USA.
+
+- **Emotion in Motion: Shifting Narratives and Sentiment in State Media and Social Discourse After October 7**  
+  *Brock University*, St. Catharines, Canada.
+
+- **Antisemitic Discourses and Discourses on Antisemitism Post–October 7**  
+  *Jewish Community Centre*, London, UK.
+
+- **Tracking Sentiment Shifts and Linguistic Patterns in Online Discourse After October 7**  
+  *NLP Lab, Luddy School of Informatics, Indiana University*, USA.
+
 
 ---
 
