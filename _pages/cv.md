@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-**Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)**
+*Currently*: **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)**
 
-**Computational Social Scientist**
+**Computational social scientist** specializing in digital discourse and multimodal political communication.
 
 *I study how political narratives and antisemitic discourse emerge and spread across social media platforms using large-scale computational methods.*
 
@@ -18,6 +18,7 @@ Political polarization / Contemporary antisemitism / Multimodal discourse (textâ
 
 
 ---
+
 
 ## Short CV
 
