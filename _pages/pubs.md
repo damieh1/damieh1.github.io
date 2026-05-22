@@ -16,7 +16,7 @@ redirect_from:
 
 ### Further Publications 
 
-[All Publications →](https://scholar.google.com/citations?user=D6-Ss-cAAAAJ&hl=en)
+[All Publications →](https://scholar.google.com/citations?hl=en&user=D6-Ss-cAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
