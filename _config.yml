@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Portfolio of damieh"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Dr. Daniel Miehling"
 description              : &description "Computational Social Scientist"
