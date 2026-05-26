@@ -13,9 +13,11 @@ redirect_from:
 ### April
 - In mid-April, I had the pleasure of traveling to New York City at the invitation of Hofstra University and Baruch College (CUNY), where I gave presentations on the following topics:
   - at Hofstra University: “Beyond the Written Word: Toward New Frameworks for Studying Online Antisemitism in an Age of Political Polarization and Polycrises.”
-
   - Baruch College (CUNY): “The Persistence of Antisemitism: From the Internet’s Early Days to AI-Driven Ampli-
 fication in Contemporary Web 2.0. Antisemitism Studies Lab Series “Antisemitism from Ancient Time to AI.”
+
+<img src="/images/talk_theme1.jpg" alt="talk1" width="100"><img src="/images/talk_theme2.jpg" alt="talk2" width="100">
+
 
 ### March
 - I published a curated dataset comprising the metadata of 2,370 publicly accessible YouTube Shorts disseminated by four prominent international news outlets covering the Israel–Hamas war between October 2023 and October 2024. *Available on* [Zenodo](https://zenodo.org/records/18017938). 
