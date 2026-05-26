@@ -10,6 +10,12 @@ redirect_from:
 ## 📢 Recent News & Updates
 
 ## 2026
+### May
+
+- New Publication: "*Multimodal Analysis of State-Funded News Coverage of theIsrael–Hamas War on YouTube Shorts*" | Download [ArXiv](https://arxiv.org/pdf/2604.00994) Preprint
+- We presented our latest paper as part of the “Political NLP” workshop at the [Language Resources and Evaluation Conference](https://lrec2026.info) (LREC). The paper will be published in the ACL anthology.
+ 
+
 ### April
 - In mid-April, I had the pleasure of traveling to New York City at the invitation of Hofstra University and Baruch College (CUNY), where I gave presentations on the following topics:
   - at [Hofstra University](https://www.hofstra.edu): “*Beyond the Written Word: Toward New Frameworks for Studying Online Antisemitism in an Age of Political Polarization and Polycrises.*”
