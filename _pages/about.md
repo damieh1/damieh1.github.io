@@ -12,9 +12,8 @@ redirect_from:
 ## 2026
 ### April
 - In mid-April, I had the pleasure of traveling to New York City at the invitation of Hofstra University and Baruch College (CUNY), where I gave presentations on the following topics:
-  - at Hofstra University: “Beyond the Written Word: Toward New Frameworks for Studying Online Antisemitism in an Age of Political Polarization and Polycrises.”
-  - Baruch College (CUNY): “The Persistence of Antisemitism: From the Internet’s Early Days to AI-Driven Ampli-
-fication in Contemporary Web 2.0. Antisemitism Studies Lab Series “Antisemitism from Ancient Time to AI.”
+  - at [Hofstra University](https://www.hofstra.edu): “*Beyond the Written Word: Toward New Frameworks for Studying Online Antisemitism in an Age of Political Polarization and Polycrises.*”
+  - at [Baruch College](https://www.baruch.cuny.edu) (CUNY): “*The Persistence of Antisemitism: From the Internet’s Early Days to AI-Driven Amplification in Contemporary Web 2.0.*”
 
 <img src="/images/talk_theme1.jpg" alt="talk1" width="100"><img src="/images/talk_theme2.jpg" alt="talk2" width="100">
 
