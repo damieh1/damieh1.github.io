@@ -12,7 +12,7 @@ redirect_from:
 ## 2026
 ### May
 
-- New Publication: "*Multimodal Analysis of State-Funded News Coverage of theIsrael–Hamas War on YouTube Shorts*" (Daniel Miehling and Sandra Kübler) Download [ArXiv](https://arxiv.org/pdf/2604.00994) Preprint
+- New Publication: "*Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts*" (Daniel Miehling and Sandra Kübler) Download [ArXiv](https://arxiv.org/pdf/2604.00994) Preprint
 - We presented our latest paper as part of the “Political NLP” workshop at the [Language Resources and Evaluation Conference](https://lrec2026.info) (LREC). The paper will be published in the ACL anthology.
  
 
