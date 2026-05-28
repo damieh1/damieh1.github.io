@@ -31,7 +31,7 @@ These questions are addressed through a series of high-quality NLP-based researc
 
 The paper series conducts empirical research on how political narratives circulate online by analyzing international news content, particularly on YouTube—the second most visited website worldwide. It focuses on state-funded and state-supported outlets, such as **Al Jazeera, the BBC, Deutsche Welle, and TRT World**. Using a longitudinal approach, the project measures the proportionality and dynamics of content related to the aftermath of the **Israel–Hamas war since October 7, 2023**.
 
-<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="250">
+<img src="/images/slideshow_3s_per_image.gif" alt="Slides" width="265">
 
 ---
 
