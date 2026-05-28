@@ -11,7 +11,7 @@ redirect_from:
 
 ## Projects & Activities
 
-- [**Methodological Advances in the Study of Online Antisemitism:**](https://damieh1.github.io/multimodal_polarization) 
+- [**Methodological Advances in the Study of Political Communication:**](https://damieh1.github.io/multimodal_polarization) 
 <img src="/images/header.PNG" alt="header" width="550">
 
 - [**Early Career Speaker Series – Interdisciplinary Perspectives on Historical Legacies and Persistent Challenges**](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html) *Fall 2025*, Institute for the Study of Contemporary Antisemitism (ISCA), Indiana University  
