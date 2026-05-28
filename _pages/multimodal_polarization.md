@@ -8,12 +8,13 @@ classes: wide
 ## Methodological Advances in the Study of Political Communication:
 <img src="/images/header.PNG" alt="header" width="550">
 
-**Keywords:**  
-multimodal analysis · computational social science · political communication · algorithmic social media · short-form video
+**Keywords:**  multimodal analysis · computational social science · political communication · social media · short videos
 
 ---
 
-Studying the extent of online hate speech and hostile ideologies is essential to understanding the dynamics of digital discourse, which can help predict ongoing societal changes beyond the digital realm. However, the underlying factors that make antisemitic, racist, and conspiratorial narratives so persuasive are often overlooked. This project focuses on emotive layers embedded in digital media that influence the spread of hostile ideologies. It focuses on political communication in the aftermath of Hamas's attack on Israel on October 7, 2023. It examines how often users devalue Jews and Israel and contrasts these expressions with those directed at opposing entities. This includes instances of sympathy for or endorsement of violent actors, such as Hamas and Hezbollah. 
+Studying the extent of online hate speech and hostile ideologies is essential to understanding the dynamics of digital discourse. This knowledge can help predict ongoing societal changes beyond the digital realm. However, the underlying factors that make antisemitic, racist, and conspiratorial narratives so persuasive are often overlooked. This project focuses on emotive layers embedded in digital media that influence the spread of hostile ideologies. It focuses on political communication in the aftermath of Hamas's attack on Israel on October 7, 2023. It examines how users devalue Jews and Israel, contrasting these expressions with those directed at opposing entities. This includes instances of sympathy for or endorsement of violent actors, such as Hamas and Hezbollah. 
+
+---
 
 ### *Beyond the Written Word...*
 
