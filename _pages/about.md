@@ -10,6 +10,17 @@ redirect_from:
 ## 📢 Recent News & Updates
 
 ## 2026
+### June
+- "*How Are You, Democracy*?" In late June, I presented a poster titled "Multimodal Political Communication and Affective Polarization on YouTube Shorts During the Israel–Hamas War" at the Academic Conference on [Measuring Sentiment and Polarization in Times of Crisis](https://www.socialsentiment.org/en/homepage/).
+
+<img src="/images/sosec.jpg" alt="techri1" width="75"><img src="https://www.socialsentiment.org/app/uploads/2023/05/2023-04-25_SOSEC_Logo_Neu.png" alt="SOSEC1" width="35%">
+
+
+- In ealy-June, I participated in two intense but exciting days of AI red teaming with the World Jewish Congress's #TecHRI initiative. I was part of a group invited to stress-test a new tool for combating antisemitism and online hate.
+
+<img src="/images/TECHRI.jpg" alt="techri1" width="130"><img src="/images/1782315242752.jpeg" alt="techri2" width="190">
+
+
 ### May
 
 - New Publication: "*Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts*" (Daniel Miehling and Sandra Kübler) Download [ArXiv](https://arxiv.org/pdf/2604.00994) Preprint
@@ -43,9 +54,6 @@ redirect_from:
 
 ### December
 - Finished teaching, and I'm happy to take some time off over the winter break.
-
-### November
-- Updated my public [CV](https://raw.githubusercontent.com/damieh1/damieh1.github.io/master/_pages/public_cv_august25.pdf) and included my latest publications. 
 
 ### October 
 - Over the course of the fall semester, I organized the Early Career Speaker Series at [ISCA](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html), featuring 12 emerging scholars across six sessions. Three recordings are already available on our YouTube channel—check them out! [Link to YouTube](https://www.youtube.com/watch?v=euIqAE0BTRE&list=PLdetwnzxfUVHuQmRNbrW9gUm0ziNhV98z&index=3)
