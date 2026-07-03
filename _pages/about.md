@@ -25,7 +25,8 @@ redirect_from:
 
 - New Publication: "*Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts*" (Daniel Miehling and Sandra Kübler) Download [ArXiv](https://arxiv.org/pdf/2604.00994) Preprint
 - We presented our latest paper as part of the “Political NLP” workshop at the [Language Resources and Evaluation Conference](https://lrec2026.info) (LREC). The paper will be published in the ACL anthology.
- 
+
+<img src="https://arxiv.org/html/2604.00994v1/x6.png" alt="LREC1" width="20%"> <img src="https://arxiv.org/html/2604.00994v1/x1.png" alt="LREC2" width="35%"> <img src="https://arxiv.org/html/2604.00994v1/x5.png" alt="LREC2" width="20%">
 
 ### April
 - In mid-April, I had the pleasure of traveling to New York City at the invitation of Hofstra University and Baruch College (CUNY), where I gave presentations on the following topics:
