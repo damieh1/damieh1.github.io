@@ -13,6 +13,8 @@ redirect_from:
 ### July 
 - I participated in the [“Contemporary Antisemitism”](https://compercenter.haifa.ac.il/) conference, held at the [Matam Tech Park](https://www.matam.co.il/en/) in Haifa, where I presented at the “**AI & Antisemitism Forum**” with leading scholars in the field.
 
+<img src="/images/discussion_haifa.jpg" alt="discussion" width="205">
+
 ### June
 - "**How Are You, Democracy?**" In late June, I presented a poster titled "*Multimodal Political Communication and Affective Polarization on YouTube Shorts During the Israel–Hamas War*" at the Academic Conference on [Measuring Sentiment and Polarization in Times of Crisis](https://www.socialsentiment.org/en/homepage/).
 
