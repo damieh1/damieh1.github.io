@@ -11,10 +11,10 @@ redirect_from:
 
 ## 2026
 ### July 
-- I participated in the [“Contemporary Antisemitism”](https://compercenter.haifa.ac.il/) conference, held at the [Matam Tech Park](https://www.matam.co.il/en/) in Haifa, where I presented at the “AI & Antisemitism Forum” with leading scholars in the field.
+- I participated in the [“Contemporary Antisemitism”](https://compercenter.haifa.ac.il/) conference, held at the [Matam Tech Park](https://www.matam.co.il/en/) in Haifa, where I presented at the “**AI & Antisemitism Forum**” with leading scholars in the field.
 
 ### June
-- "*How Are You, Democracy*?" In late June, I presented a poster titled "Multimodal Political Communication and Affective Polarization on YouTube Shorts During the Israel–Hamas War" at the Academic Conference on [Measuring Sentiment and Polarization in Times of Crisis](https://www.socialsentiment.org/en/homepage/).
+- "**How Are You, Democracy?**" In late June, I presented a poster titled "*Multimodal Political Communication and Affective Polarization on YouTube Shorts During the Israel–Hamas War*" at the Academic Conference on [Measuring Sentiment and Polarization in Times of Crisis](https://www.socialsentiment.org/en/homepage/).
 
 <img src="/images/sosec.jpg" alt="techri1" width="75"> <img src="https://www.socialsentiment.org/app/uploads/2023/05/2023-04-25_SOSEC_Logo_Neu.png" alt="SOSEC1" width="35%">
 
