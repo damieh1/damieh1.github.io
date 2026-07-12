@@ -20,7 +20,7 @@ Political polarization / Contemporary antisemitism / Multimodal discourse (textâ
 ---
 
 
-<img src="/_pages/images/presentation_demo.png" alt="teaching_NLP" width="150">
+<img src="/_pages/images/presentation_demo.jpg" alt="teaching_NLP" width="150">
 
 ## Short CV
 
