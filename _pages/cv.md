@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<img src="/images/presentation_demo.jpg" alt="header" width="550">
+
+
 *Currently*: **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)**
 
 **Computational social scientist** specializing in digital discourse and multimodal political communication.
@@ -16,11 +19,7 @@ redirect_from:
 **Focus areas:**
 Political polarization / Contemporary antisemitism / Multimodal discourse (text–image–video) / Hate speech & emotion detection / Large-scale social media corpora / Corpus Linguistics /
 
-
 ---
-
-
-<img src="/_pages/images/presentation_demo.jpg" alt="teaching_NLP" width="150">
 
 ## Short CV
 
