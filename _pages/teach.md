@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/classroom.png" alt="header" width="550">
+<img src="/images/classroom.png" alt="header" width="450">
 
 
-My teaching bridges the humanities, social sciences, and computational methods. Using contemporary case studies, I combine theoretical perspectives with practical analytical tools to help students investigate questions of language, communication, media, politics, and society.
+*My teaching bridges the humanities, social sciences, and computational methods. Using contemporary case studies, I combine theoretical perspectives with practical analytical tools to help students investigate questions of language, communication, media, politics, and society.*
 
-### Computationla Linguistic Analysis of Social Media and User-Generated Content in Web 2.0 *(Spring 2026)*, Undergraduate Seminar, Indiana University
+### Computational Linguistic Analysis of Social Media and User-Generated Content in Web 2.0 *(Spring 2026)*, Undergraduate Seminar, Indiana University
 
 Course Description (LING-L 210 (13323))
 - This course examines how language shapes digital communication, focusing on bias, hate speech, and ideological framing in social media discourse. Students will engage with methods from corpus linguistics, discourse analysis, and sentiment analysis to examine user-generated content. Key topics include pragmatic strategies in online debates, such as implicature, presupposition, framing and reframing, speech acts, delegitimization, irony and sarcasm, dog whistles, and persuasive language techniques. Students will explore lexical patterns in digital discourse and computational tools for linguistic analysis. Through guided hands-on training, they will develop skills in monitoring, annotating and interpreting linguistic trends on social media. Working in groups, students will conduct collaborative research projects, applying linguistic methodologies to investigate contemporary online discourse and presenting their findings in a final report.
