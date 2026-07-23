@@ -11,6 +11,7 @@ redirect_from:
 
 <img src="/images/classroom.png" alt="header" width="450">
 
+# Teaching
 
 *My teaching bridges the humanities, social sciences, and computational methods. Using contemporary case studies, I combine theoretical perspectives with practical analytical tools to help students investigate questions of language, communication, media, politics, and society.*
 
