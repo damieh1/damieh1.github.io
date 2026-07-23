@@ -31,8 +31,11 @@ redirect_from:
 ## Competitive Conference Proceedings
 
 -	2026: **Miehling, D.**, Kübler, S., Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts. [*Proceedings of the  Fifteenth Language Resources and Evaluation Conference (LREC)*](https://arxiv.org/pdf/2604.00994)
+
 -	2025: **Miehling, D.**, Dakota, D., Kübler, S. Analyzing Polarization in Online Discourse on the 2023-2024 Israel–Hamas War. [*Proceedings of the 5th Workshop on Computational Linguistics for the Political and Social Sciences*](https://aclanthology.org/2025.konvens-2.1/)
+  
 -	2025: **Miehling, D.**, Dakota, D., Kübler, S. Aspect-Based Sentiment Analysis to Investigate Polarization in YouTube Comments. [*Proceedings of the Conference on Recent Advances in Natural Language Processing*](https://acl-bg.org/proceedings/2025/RANLP\%202025/pdf/2025.ranlp-1.83.pdf).
+  
 -	2021: Jikeli, G., Awasthi, D., Axelrod, D., **Miehling, D.**, Wagh, P., Joeng, W. Detecting Anti-Jewish Messages on Social Media. [*Proceedings of the ICWSM Workshops*](https://doi.org/10.36190/2021.14).
 
 ## Double-Blind Reviewed & Preprints
