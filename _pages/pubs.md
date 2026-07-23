@@ -13,7 +13,7 @@ redirect_from:
 
 ## Book
 
--	2024: **Miehling D.** **Online-Antisemitismus verstehen: Hassrede im Web 2.0** *(Understanding Online Antisemitism: Hate-Speech in Web 2.0)*, [Nomos](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3), E-ISBN 978-3-7489-4905-3
+-	2024: **Miehling D.** Online-Antisemitismus verstehen: Hassrede im Web 2.0 *(Understanding Online Antisemitism: Hate-Speech in Web 2.0)*, [Nomos](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3), E-ISBN 978-3-7489-4905-3
 
 <div style="display: flex; align-items: flex-start; gap: 1em;">
   <img src="https://www.inlibra.com/extern/inlibra/live/cover/10.5771_9783748949053_big.png" 
