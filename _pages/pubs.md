@@ -15,7 +15,16 @@ redirect_from:
 
 -	2024: **Miehling D.** **Online-Antisemitismus verstehen: Hassrede im Web 2.0** *(Understanding Online Antisemitism: Hate-Speech in Web 2.0)*, [Nomos](https://www.nomos-shop.de/en/p/online-antisemitismus-verstehen-hassrede-im-web-2-0-gr-978-3-7560-2253-3), E-ISBN 978-3-7489-4905-3
 
-Abstract: *The study examines contemporary manifestations of online antisemitism through a cross-platform analysis of X and Telegram. It contributes to empirical research on antisemitism by analysing user-generated data and longitudinal dynamics from 2019 to May 2021. Through case studies, it examines actors such as Islamist groups, right-wing extremists and superspreaders. It also presents a methodological approach for identifying hate speech by analysing 41715 relevant posts. The study examines multimodal relations, communication strategies, current trends, and addresses methodological challenges by studying digital domains.*
+<div style="display: flex; align-items: flex-start; gap: 1em;">
+  <img src="https://www.inlibra.com/extern/inlibra/live/cover/10.5771_9783748949053_big.png" 
+       alt="book" 
+       style="width: 35%; max-width: 70px; height: auto;">
+  <div style="flex: 1;">
+    <strong>Abstract:</strong>
+    <em>The study examines contemporary manifestations of online antisemitism through a cross-platform analysis of X and Telegram. It contributes to empirical research on antisemitism by analysing user-generated data and longitudinal dynamics from 2019 to May 2021. Through case studies, it examines actors such as Islamist groups, right-wing extremists and superspreaders. It also presents a methodological approach for identifying hate speech by analysing 41715 relevant posts. The study examines multimodal relations, communication strategies, current trends, and addresses methodological challenges by studying digital domains.</em>
+  </div>
+</div>
+
 
 ---
 
