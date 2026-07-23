@@ -95,12 +95,4 @@ redirect_from:
 
 ---
 
-## 🚀 Featured Projects
-- **Early Career Speaker Series: Interdisciplinary Perspectives on Historical Legacies and Persistent Challenges** (Institute for the Study of Contemporary Antisemitism, Indiana University, September--December 2025) - *Series Organizer* | 🌐 [Schedule & Invited Speakers](https://isca.indiana.edu/news-events/webinars/2025-webinars/early-career-speaker-series-fall-2025.html)
-- **Investigations on Political Polarization and Emotional Toning in Large-Scale Datasets** (Collaborative Project with the Department of Linguistics, Indiana University 2025) | *Principal Investigator* Website follows
-- **Datathon & Machine Learning Competition on Antisemitism** (Indiana University, July 2025)* – *Computational Research Coordinator* | 🤖 [Github Repository](https://github.com/damieh1/datathon_2025).
-- **Social Media & Hate Lab** *(2025–Present)* – Coordinating interdisciplinary research on hate speech online | 🌐 [Lab News](https://isca.indiana.edu/publication-research/social-media-project/media.html).
-
----
-
 
