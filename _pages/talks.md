@@ -13,7 +13,7 @@ redirect_from:
 
 # Presentations & Talks
 
-I regularly give talks and workshops on artificial intelligence (AI), digital communication, and social media. I enjoy translating computational research into practical insights for academic and non-academic audiences, including students, educators, policymakers, legal professionals, and practitioners. My recent talks have explored topics such as AI-generated content, political polarization, online hate, radicalization, and digital and media literacy.
+*I regularly give talks and workshops on digital communication and social media. I enjoy translating computational research into practical insights for academic and non-academic audiences, including students, educators, policymakers, legal professionals, and practitioners. My recent talks have explored topics such as AI-generated content, political polarization, online hate, radicalization, and digital and media literacy.*
 
 
 ## Invitations
