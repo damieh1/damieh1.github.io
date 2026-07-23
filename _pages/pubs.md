@@ -46,13 +46,13 @@ redirect_from:
 
 - 2026: Soemer, K., **Miehling, D.**, Jikeli, G. Antisemitische Diskurse in deutschen Tweets vor dem 7. Oktober 2023. Eine Analyse von Online-Kommunikationen über ‚Juden‘ und ‚Israel‘ auf Twitter von 2019 bis 2022. [*Journal for Religion, Society and Politics*](https://link.springer.com/article/10.1007/s41682-026-00248-8).
 
-- 2024: **Miehling, D.**, Tschiskale, V., Jikeli, G. Holocaustvergleiche auf Twitter. Assoziationen deutschsprachiger User zu Juden und der Shoah. *Kodikas/Code. Ars Semeiotica*. [Link](https://elibrary.narr.digital/article/99.0000/kod20242-40133)
+- 2024: **Miehling, D.**, Tschiskale, V., Jikeli, G. Holocaustvergleiche auf Twitter. Assoziationen deutschsprachiger User zu Juden und der Shoah. [*Kodikas/Code. Ars Semeiotica*](https://elibrary.narr.digital/article/99.0000/kod20242-40133).
 
-- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Somer, K. Antisemitic Messages? A Guide to High-Quality Annotation and a Labeled Dataset of Tweets. [arXiv:2304.14599](https://arxiv.org/pdf/2304.14599)
+- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Somer, K. Antisemitic Messages? A Guide to High-Quality Annotation and a Labeled Dataset of Tweets. [*ArXiv*](https://arxiv.org/pdf/2304.14599).
 
-- 2022: Jikeli, G., Axelrod, D., Fischer, R., Forouzesh, E., Jeong, W., **Miehling, D.**, Soemer, K. Differences between Antisemitic and Non-Antisemitic English Language Tweets. *Computational and Mathematical Organization Theory*. [DOI: 10.1007/s10588-022-09363-2](https://doi.org/10.1007/s10588-022-09363-2)
+- 2022: Jikeli, G., Axelrod, D., Fischer, R., Forouzesh, E., Jeong, W., **Miehling, D.**, Soemer, K. Differences between Antisemitic and Non-Antisemitic English Language Tweets. [*Computational and Mathematical Organization Theory*](https://doi.org/10.1007/s10588-022-09363-2).
 
-- 2019: Jikeli, G., Cavar, D., **Miehling, D.** Methodological Groundwork for Research on Online Anti-Semitism with Machine Learning. [arXiv:1910.01214v1](https://arxiv.org/abs/1910.01214v1)
+- 2019: Jikeli, G., Cavar, D., **Miehling, D.** Methodological Groundwork for Research on Online Anti-Semitism with Machine Learning. [*ArXiv*](https://arxiv.org/abs/1910.01214v1).
 
 ## Book Chapters
 
@@ -62,9 +62,9 @@ redirect_from:
 
 - 2024: **Miehling, D.** “WhatTheyHide”: Judenhass in deutschsprachigen Fringe-Communities auf Telegram. In: Zarbock et al. (Eds.), [*Antisemitismus zwischen Latenz und Leidenschaft*](https://www.researchgate.net/publication/383769124_Whattheyhide_Judenhass_in_deutschsprachigen_Fringe-Communities_auf_Telegram). Verlag Barbara Budrich.
 
-- 2024: Jikeli, G., Cavar, D., Jeong, W., **Miehling, D.**, Wagh, P., Pak, D. Auf dem Weg zu einer KI-Definition von Antisemitismus?. In: Hübscher & von Mering (Eds.), *Antisemitismus in den sozialen Medien*. Verlag Barbara Budrich.
+- 2024: Jikeli, G., Cavar, D., Jeong, W., **Miehling, D.**, Wagh, P., Pak, D. Auf dem Weg zu einer KI-Definition von Antisemitismus?. In: Hübscher & von Mering (Eds.), [*Antisemitismus in den sozialen Medien*](https://www.jstor.org/stable/jj.16148256?turn_away=true). Verlag Barbara Budrich.
 
-- 2022: Jikeli, G., Cavar, D., Jeong, W., **Miehling, D.**, Wagh, P., Pak, D. Towards an AI Definition of Antisemitism?. In: Hübscher & von Mering (Eds.), *Antisemitism on Social Media*. Routledge.
+- 2022: Jikeli, G., Cavar, D., Jeong, W., **Miehling, D.**, Wagh, P., Pak, D. Towards an AI Definition of Antisemitism?. In: Hübscher & von Mering (Eds.), [*Antisemitism on Social Media*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003200499-13/toward-ai-definition-antisemitism-günther-jikeli-damir-cavar-weejeong-jeong-daniel-miehling-pauravi-wagh-denizhan-pak). Routledge.
 
 ## Scientific Reports
 
@@ -74,15 +74,15 @@ redirect_from:
 
 - 2026: **Miehling, D.** *YouTube Shorts from Major News Outlets on the Israel–Hamas War (October 2023–October 2024)*. [Zenodo](https://zenodo.org/records/18017938).
 
-- 2025: **Miehling, D.**, Soemer, K, Axelrod, D., Jikeli, G. *Antisemitism after 10/7 in posts on X containing the keyword "Israel" (November–December 2023)*. Zenodo.
+- 2025: **Miehling, D.**, Soemer, K, Axelrod, D., Jikeli, G. *Antisemitism after 10/7 in posts on X containing the keyword "Israel" (November–December 2023)*. [Zenodo](https://zenodo.org/records/15025646).
 
-- 2025: **Miehling, D.**, Jikeli, G., *Calling Out Antisemitism: A Dataset for Distinguishing Between Antisemitic and Counter-Antisemitic Discourse*. Zenodo.
+- 2025: **Miehling, D.**, Jikeli, G., *Calling Out Antisemitism: A Dataset for Distinguishing Between Antisemitic and Counter-Antisemitic Discourse*. [Zenodo](https://zenodo.org/records/17524915).
 
 - 2025: Jikeli, G., **Miehling, D.**, Soemer, K. *Antisemitism on X: A Dataset Tracking Trends in Counter-Speech and Israel-Related Discourse Before and After October 7*. [Zenodo](https://zenodo.org/records/14448399).
 
-- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Soemer, K. *Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics*. Zenodo.
+- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Soemer, K. *Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics*. [Zenodo](https://zenodo.org/records/14448399).
 
-- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Soemer, K. *A German Language Labeled Dataset of Tweets*. Zenodo.
+- 2023: Jikeli, G., Karali, S., **Miehling, D.**, Soemer, K. *A German Language Labeled Dataset of Tweets*. [Zenodo](https://zenodo.org/records/10053509).
 
 
 ### Further Publications 
