@@ -47,6 +47,7 @@ Political communication • Digital information environments • Political polar
 - Online antisemitism and hate speech
 - Computational social science
 - Multimodal communication
+- Media literacy
 - Jewish studies
 - Corpus linguistics
 
