@@ -19,7 +19,7 @@ redirect_from:
 *I investigate how digital media shape political communication and public discourse. My research combines computational social science, communication science, and linguistics to study political polarization, misinformation, online hate, antisemitism, and the societal impact of emerging digital technologies using large-scale computational methods.*
 
 **Focus areas:**  
-Political communication • Digital information environments • Political polarization • Contemporary antisemitism • Computational social science • Multimodal communication • Corpus linguistics
+Political communication • Digital information environments • Political polarization • Contemporary antisemitism • Computational social science • Multimodal communication • Corpus linguistics • Jewish studies
 
 
 ---
