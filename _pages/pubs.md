@@ -30,7 +30,7 @@ redirect_from:
 
 ## Competitive Conference Proceedings
 
--	2026: **Miehling, D.**, Kübler, S., Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts. [*Proceedings of the  Fifteenth Language Resources and Evaluation Conference (LREC)*](https://arxiv.org/pdf/2604.00994)
+-	2026: **Miehling, D.**, Kübler, S., Multimodal Analysis of State-Funded News Coverage of the Israel–Hamas War on YouTube Shorts. [*Proceedings of the  Fifteenth Language Resources and Evaluation Conference (LREC)*](https://aclanthology.org/2026.politicalnlp-1.4/)
 
 -	2025: **Miehling, D.**, Dakota, D., Kübler, S. Analyzing Polarization in Online Discourse on the 2023-2024 Israel–Hamas War. [*Proceedings of the 5th Workshop on Computational Linguistics for the Political and Social Sciences*](https://aclanthology.org/2025.konvens-2.1/)
   
