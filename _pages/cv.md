@@ -14,12 +14,12 @@ redirect_from:
 
 *Currently:* **Visiting Assistant Professor @ [Indiana University Bloomington](https://bloomington.iu.edu/about/index.html)**
 
-**Computational social scientist** studying digital communication, political discourse, and online information environments.
+**Social scientist** studying digital communication, political discourse, and online information environments.
 
 *I investigate how digital media shape political communication and public discourse. My research combines computational social science, communication science, and linguistics to study political polarization, misinformation, online hate, antisemitism, and the societal impact of emerging digital technologies using large-scale computational methods.*
 
 **Focus areas:**  
-Political communication • Digital information environments • Political polarization • Contemporary antisemitism • Computational social science • Multimodal communication • Corpus linguistics • Jewish studies
+Research & Project Management • Political communication • Digital information environments • Political polarization • Contemporary antisemitism • Computational social science • Multimodal communication • Corpus linguistics • Jewish studies
 
 
 ---
