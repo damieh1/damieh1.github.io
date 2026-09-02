@@ -16,7 +16,11 @@ redirect_from:
 
 **Social scientist** studying digital communication, political discourse, and online information environments.
 
-*I investigate how digital media shape political communication and public discourse. My research combines computational social science, communication science, and linguistics to study political polarization, misinformation, online hate, antisemitism, and the societal impact of emerging digital technologies using large-scale computational methods.*
+
+
+*I combine social science research with experience in project development, interdisciplinary coordination, teaching, and translating research into educational and public-facing formats.*
+
+*My work brings together computational social science, communication science, and linguistics to examine how digital media shape political communication and public discourse. I focus on political polarization, misinformation, online hate, antisemitism, and the societal implications of AI and emerging digital technologies. I use large-scale computational methods where they help answer these questions.*
 
 **Focus areas:**  
 Research & Project Management • Political communication • Digital information environments • Political polarization • Contemporary antisemitism • Computational social science • Multimodal communication • Corpus linguistics • Jewish studies
