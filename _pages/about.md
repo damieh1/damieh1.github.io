@@ -13,7 +13,7 @@ redirect_from:
 ### July 
 - I participated in the [“Contemporary Antisemitism”](https://compercenter.haifa.ac.il/) conference, held at the [Matam Tech Park](https://www.matam.co.il/en/) in Haifa, where I presented at the “**AI & Antisemitism Forum**” with leading scholars in the field.
 
-[**Watch the Conference Talk**](https://img.youtube.com/vi/CowYRPar6jw/0.jpg)
+[**Watch the Conference Talk**](https://www.youtube.com/watch?v=CowYRPar6jw)
  
 <img src="/images/discussion_haifa.jpg" alt="discussion" width="205"> <a href="https://www.youtube.com/watch?v=CowYRPar6jw" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/CowYRPar6jw/0.jpg" alt="Video Thumbnail" width="160" />
