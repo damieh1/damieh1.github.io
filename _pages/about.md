@@ -15,7 +15,7 @@ redirect_from:
 
 [**Watch the Conference Talk**](https://youtu.be/CowYRPar6jw?t=290)
  
-<img src="/images/discussion_haifa.jpg" alt="discussion" width="205"> <a href="[https://www.youtube.com/watch?v=CowYRPar6jw](https://youtu.be/CowYRPar6jw?t=290)" target="_blank" rel="noopener noreferrer">
+<img src="/images/discussion_haifa.jpg" alt="discussion" width="205"> <a href="[https://www.youtu.be/CowYRPar6jw](https://youtu.be/CowYRPar6jw?)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/CowYRPar6jw/0.jpg" alt="Video Thumbnail" width="160" />
 </a>
 
