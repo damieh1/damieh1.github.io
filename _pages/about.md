@@ -13,7 +13,7 @@ redirect_from:
 ### September
 - New Publication on "Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War". [*Digital Hate Review*](https://doi.org/10.66144/gs3a404).
 
-<img src="https://pub.curvenote.com/01a0a3ab-31aa-770a-91fa-4ec2ddb8315e/public/banner-e25dfe67a414992d3d8362780d5f69d7.webp" alt="header" width="15%">
+<img src="https://pub.curvenote.com/01a0a3ab-31aa-770a-91fa-4ec2ddb8315e/public/banner-e25dfe67a414992d3d8362780d5f69d7.webp" alt="header" width="25%">
 
 ### July 
 - I participated in the [“Contemporary Antisemitism”](https://compercenter.haifa.ac.il/) conference, held at the [Matam Tech Park](https://www.matam.co.il/en/) in Haifa, where I presented at the “**AI & Antisemitism Forum**” with leading scholars in the field.
