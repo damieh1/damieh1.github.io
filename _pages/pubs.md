@@ -40,7 +40,7 @@ redirect_from:
 
 ## Double-Blind Reviewed & Preprints
 
-- 2026 **Miehling, D.** Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War. *Digital Hate Review*.
+- 2026 **Miehling, D.** Mapping Affective Polarization in YouTube Shorts: A Data-Driven Analysis of Political Communication During the 2023–2024 Israel–Hamas War. [*Digital Hate Review*](https://digitalhatereview.com/articles-preview/mapping-affective-polarization).
 
 - 2026 Jikeli, G., **Miehling, D.** Digital Radicalization and Campus Antisemitism: The Role of Social Media Networks in Mainstreaming Extremist Rhetoric. [*Journal of Contemporary Antisemitism*](https://www.degruyterbrill.com/document/doi/10.26613/jca/9.2.215/html).
 
